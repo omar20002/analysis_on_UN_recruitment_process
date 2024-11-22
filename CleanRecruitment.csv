@@ -1,0 +1,626 @@
+Selection Year,JO Type,Job Network,Entity,Gender,Nationality,Region,Job Family,Level,Posting Year,JO Number,Applicant Number,JO Selection,Candidate Rostered?,Entity Type,SelectionMonth,PostingMonth,Job Code,Job_Family,Recruitment Timeline (Days)
+2022,RfR,MAGNET,UN-SPM-4,Male,Niger,Africa,Finance,P-3,2022,533679,306765,Roster,Yes,Special Political Mission,2022-04-01,2022-03-01,UNS:3349,FIN,27
+2017,PSJO,MAGNET,UN-OAH-2,Female,France,Western Europe and Others,Human Resources,P-5,2017,230787,306933,Non-roster,No,OAH,2017-11-01,2017-03-01,UNS:6190,HRE,220
+2019,PSJO,ITECNET,UN-OAH-2,Male,Romania,Eastern European,Information Management Systems and Technology,P-4,2018,298032,307017,Non-roster,No,OAH,2019-01-01,2018-07-01,UNS:4086,IST,183
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Programme Management,P-5,2016,192216,307092,Non-roster,No,Department,2017-08-01,2016-08-01,UNS:6291,PGM,366
+2021,PSJO,INFONET,UN-OAH-2,Male,Russian Federation,Eastern European,Language,P-4,2020,390240,307095,Non-roster,No,OAH,2021-03-01,2020-01-01,UNS:8062,LAN,434
+2018,PSJO,ITECNET,UN-OAH-2,Male,France,Western Europe and Others,Information Management Systems and Technology,P-4,2016,211503,307137,Non-roster,No,OAH,2018-01-01,2016-12-01,UNS:2109,IST,411
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Statistics,P-4,2017,269244,307383,Roster,Yes,Department,2018-01-01,2017-12-01,UNS:6540,STT,25
+2019,PSJO,POLNET,UN-OFFICE-5,Female,United States of America,Western Europe and Others,Political Affairs,P-5,2019,346431,307419,Non-roster,No,Office,2019-07-01,2019-04-01,UNS:6285,POL,83
+2021,PSJO,DEVNET,UN-DEPT-3,Female,Japan,Asia-Pacific,Social Affairs,P-5,2021,456255,307485,Non-roster,No,Department,2021-10-01,2021-04-01,UNS:6332,SOC,182
+2021,PSJO,INFONET,UN-OAH-2,Male,France,Western Europe and Others,Language,P-5,2020,390768,307584,Non-roster,No,OAH,2021-04-01,2020-02-01,UNS:8701,LAN,448
+2017,PSJO,INFONET,UN-OAH-2,Male,France,Western Europe and Others,Language,P-4,2017,254178,307584,Roster,Yes,OAH,2017-09-01,2017-08-01,UNS:8633,LAN,14
+2018,PSJO,POLNET,UN-OFFICE-5,Female,Italy,Western Europe and Others,Political Affairs,P-5,2018,309765,307812,Roster,Yes,Office,2018-09-01,2018-09-01,UNS:6285,POL,14
+2021,PSJO,DEVNET,UN-SPM-4,Female,Guinea,Africa,Programme Management,P-5,2021,456837,308037,Non-roster,No,Special Political Mission,2021-12-01,2021-03-01,UNS:6291,PGM,258
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Kenya,Africa,Sustainable Development,P-4,2016,177984,308082,Non-roster,No,Department,2018-12-01,2016-07-01,UNS:6658,SUS,893
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Singapore,Asia-Pacific,Public Administration,P-5,2017,239802,308163,Non-roster,No,Department,2018-02-01,2017-06-01,UNS:6183,PBA,252
+2022,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Statistics,P-3,2022,539478,308172,Roster,Yes,Department,2022-05-01,2022-05-01,UNS:6539,STT,7
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Statistics,P-3,2017,217482,308172,Non-roster,Yes,Department,2018-04-01,2017-01-01,UNS:6539,STT,448
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Australia,Western Europe and Others,Economic Affairs,P-4,2017,262089,308190,Roster,Yes,Department,2018-05-01,2017-10-01,UNS:7284,ECO,216
+2017,PSJO,INFONET,UN-OAH-2,Male,China,Asia-Pacific,Conference Services,P-3,2016,190275,308220,Non-roster,No,OAH,2017-03-01,2016-07-01,UNS:5568,CON,237
+2022,PSJO,MAGNET,UN-OAH-2,Male,United States of America,Western Europe and Others,Administration,P-4,2022,527901,308304,Non-roster,No,OAH,2022-08-01,2022-03-01,UNS:1103,ADM,153
+2022,PSJO,POLNET,UN-OFFICE-5,Female,Italy,Western Europe and Others,Political Affairs,P-5,2022,524268,308367,Non-roster,No,Office,2022-07-01,2022-03-01,UNS:6285,POL,141
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Switzerland,Western Europe and Others,Population Affairs,P-4,2018,307626,308442,Non-roster,No,Department,2021-12-01,2018-09-01,UNS:5127,POP,"1,176"
+2021,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-4,2021,468300,308556,Roster,Yes,OAH,2021-07-01,2021-05-01,UNS:7548,LAN,52
+2020,RfR,MAGNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Administration,P-3,2020,403125,308592,Roster,Yes,Peacekeeping Mission,2020-05-01,2020-03-01,UNS:2506,ADM,43
+2019,PSJO,INFONET,UN-OAH-2,Female,United States of America,Western Europe and Others,Language,P-4,2019,359709,308844,Roster,Yes,OAH,2019-09-01,2019-07-01,UNS:8057,LAN,59
+2022,PSJO,MAGNET,UN-PKO-1,Female,United States of America,Western Europe and Others,Finance,P-4,2021,514614,308868,Non-roster,No,Peacekeeping Mission,2022-07-01,2021-12-01,UNS:3350,FIN,203
+2021,PSJO,INFONET,UN-OAH-2,Female,Switzerland,Western Europe and Others,Language,P-5,2020,391935,309165,Roster,Yes,OAH,2021-04-01,2020-02-01,UNS:8699,LAN,448
+2017,RfR,INFONET,UN-PKO-1,Male,Benin,Africa,Public Information,P-3,2017,217083,309210,Roster,Yes,Peacekeeping Mission,2017-04-01,2017-01-01,UNS:5560,PUB,102
+2022,PSJO,MAGNET,UN-OAH-2,Male,Myanmar,Asia-Pacific,Human Resources,P-4,2022,541854,309507,Non-roster,No,OAH,2022-08-01,2022-05-01,UNS:3822,HRE,88
+2018,PSJO,MAGNET,UN-OAH-2,Male,Myanmar,Asia-Pacific,Administration,P-3,2018,271338,309507,Roster,Yes,OAH,2018-01-01,2018-01-01,UNS:1102,ADM,21
+2017,PSJO,ITECNET,UN-OAH-2,Female,Spain,Western Europe and Others,Information Management Systems and Technology,P-4,2016,215910,309519,Non-roster,No,OAH,2017-11-01,2016-12-01,UNS:3983,IST,327
+2019,PSJO,POLNET,UN-OAH-2,Male,France,Western Europe and Others,Political Affairs,P-5,2019,327957,309627,Roster,Yes,OAH,2019-04-01,2019-01-01,UNS:7617,POL,81
+2021,PSJO,INFONET,UN-OAH-2,Male,Canada,Western Europe and Others,Language,P-4,2021,456336,310041,Non-roster,No,OAH,2021-08-01,2021-04-01,UNS:8228,LAN,116
+2022,PSJO,INFONET,UN-OAH-2,Female,China,Asia-Pacific,Language,P-4,2021,511578,310074,Non-roster,No,OAH,2022-04-01,2021-12-01,UNS:8055,LAN,106
+2022,PSJO,DEVNET,UN-DEPT-3,Female,Italy,Western Europe and Others,Economic Affairs,P-5,2021,478983,310137,Non-roster,No,Department,2022-04-01,2021-09-01,UNS:7333,ECO,222
+2019,RfR,POLNET,UN-PKO-1,Female,Netherlands,Western Europe and Others,Political Affairs,P-4,2019,367695,310164,Roster,Yes,Peacekeeping Mission,2019-11-01,2019-09-01,UNS:7657,POL,65
+2021,RfR,LOGNET,UN-PKO-1,Male,Ukraine,Eastern European,Transportation,P-3,2020,429456,310314,Roster,Yes,Peacekeeping Mission,2021-04-01,2020-11-01,UNS:1163,TRA,156
+2020,PSJO,SAFETYNET,UN-PKO-1,Female,Ghana,Africa,Security,P-3,2019,336783,310455,Non-roster,No,Peacekeeping Mission,2020-10-01,2019-04-01,UNS:5987,SEC,554
+2019,PSJO,MAGNET,UN-OAH-2,Male,Ireland,Western Europe and Others,Finance,P-5,2019,342861,310539,Non-roster,No,OAH,2019-10-01,2019-05-01,UNS:2021,FIN,158
+2018,PSJO,DEVNET,UN-OAH-2,Female,Germany,Western Europe and Others,Programme Management,P-3,2018,302241,310884,Roster,Yes,OAH,2018-08-01,2018-08-01,UNS:8412,PGM,20
+2019,PSJO,INFONET,UN-OAH-2,Female,Germany,Western Europe and Others,Documentation and Information Management,P-5,2019,357180,311349,Non-roster,No,OAH,2019-12-01,2019-08-01,UNS:7866,DOC,134
+2018,RfR,POLNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Electoral Affairs,P-5,2018,313017,311631,Roster,Yes,Peacekeeping Mission,2018-12-01,2018-09-01,UNS:3102,ELA,75
+2017,PSJO,INFONET,UN-OAH-2,Female,Lebanon,Asia-Pacific,Language,P-4,2017,233442,311730,Roster,Yes,OAH,2017-06-01,2017-04-01,UNS:8630,LAN,54
+2018,RfR,POLNET,UN-PKO-1,Male,"Korea, Republic of",Asia-Pacific,Political Affairs,P-3,2018,305679,312216,Roster,Yes,Peacekeeping Mission,2018-10-01,2018-08-01,UNS:8863,POL,55
+2019,RfR,MAGNET,UN-PKO-1,Female,United States of America,Western Europe and Others,Finance,P-5,2019,332163,312300,Roster,Yes,Peacekeeping Mission,2019-05-01,2019-02-01,UNS:10243,FIN,91
+2017,RfR,MAGNET,UN-PKO-1,Female,Cabo Verde,Africa,Administration,P-4,2016,216225,312570,Roster,Yes,Peacekeeping Mission,2017-03-01,2016-12-01,UNS:2507,ADM,73
+2019,PSJO,MAGNET,UN-OAH-2,Female,Lebanon,Asia-Pacific,Human Resources,P-3,2019,345141,312831,Roster,Yes,OAH,2019-04-01,2019-04-01,UNS:3819,HRE,7
+2017,PSJO,ITECNET,UN-OAH-2,Male,Kenya,Africa,Information Management Systems and Technology,P-5,2017,216969,312885,Non-roster,Yes,OAH,2017-09-01,2017-02-01,UNS:6210,IST,216
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Ethiopia,Africa,Programme Management,P-3,2020,388686,312975,Roster,Yes,Department,2021-03-01,2020-01-01,UNS:8412,PGM,427
+2018,PSJO,ITECNET,UN-OAH-2,Male,Switzerland,Western Europe and Others,Information Management Systems and Technology,P-5,2018,319395,313248,Roster,Yes,OAH,2018-12-01,2018-11-01,UNS:6210,IST,19
+2017,RfR,MAGNET,UN-PKO-1,Female,Fiji,Asia-Pacific,Human Resources,P-5,2017,219204,313308,Roster,Yes,Peacekeeping Mission,2017-01-01,2017-01-01,UNS:6190,HRE,14
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Brazil,Latin American and Caribbean,Economic Affairs,P-4,2017,241158,314259,Roster,Yes,Department,2017-06-01,2017-06-01,UNS:7284,ECO,17
+2022,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Economic Affairs,P-5,2021,493839,314265,Non-roster,Yes,Department,2022-08-01,2021-10-01,UNS:7333,ECO,309
+2018,RfR,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Political Affairs,P-4,2017,269715,314571,Roster,Yes,Peacekeeping Mission,2018-01-01,2017-12-01,UNS:5121,POL,33
+2018,PSJO,LOGNET,UN-PKO-1,Male,Haiti,Latin American and Caribbean,Logistics and Supply Chain,P-3,2017,236253,314760,Non-roster,No,Peacekeeping Mission,2018-03-01,2017-05-01,UNS:4536,LOG,312
+2017,RfR,SAFETYNET,UN-PKO-1,Male,France,Western Europe and Others,Security,P-3,2016,211044,314994,Mixed,Yes,Peacekeeping Mission,2017-04-01,2016-12-01,UNS:5987,SEC,122
+2020,PSJO,MAGNET,UN-OAH-2,Female,Argentina,Latin American and Caribbean,Administration,P-5,2020,422817,315072,Mixed,Yes,OAH,2020-11-01,2020-09-01,UNS:6112,ADM,56
+2021,PSJO,INFONET,UN-OAH-2,Female,Estonia,Eastern European,Conference Services,P-4,2020,393738,315090,Non-roster,No,OAH,2021-09-01,2020-02-01,UNS:2510,CON,585
+2021,PSJO,MAGNET,UN-DEPT-3,Female,Nicaragua,Latin American and Caribbean,Human Resources,P-5,2021,471582,315246,Roster,Yes,Department,2021-06-01,2021-06-01,UNS:6190,HRE,7
+2021,PSJO,DEVNET,UN-DEPT-3,Female,Costa Rica,Latin American and Caribbean,Public Administration,P-4,2020,430701,315318,Non-roster,No,Department,2021-09-01,2020-11-01,UNS:3618,PBA,299
+2020,PSJO,MAGNET,UN-OAH-2,Male,United States of America,Western Europe and Others,Administration,P-4,2020,388278,315441,Roster,Yes,OAH,2020-01-01,2020-01-01,UNS:8716,ADM,6
+2017,PSJO,MAGNET,UN-OAH-2,Male,Spain,Western Europe and Others,Human Resources,P-4,2017,216966,315459,Non-roster,No,OAH,2017-05-01,2017-01-01,UNS:6533,HRE,128
+2017,PSJO,POLNET,UN-PKO-1,Female,Burundi,Africa,Rule of Law,P-3,2016,162897,316146,Non-roster,No,Peacekeeping Mission,2017-01-01,2016-01-01,UNS:4297,ROL,374
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Ethiopia,Africa,Statistics,P-3,2020,385974,316245,Roster,Yes,Department,2022-04-01,2020-01-01,UNS:6539,STT,828
+2017,PSJO,ITECNET,UN-DEPT-3,Male,Ethiopia,Africa,Information Management Systems and Technology,P-3,2017,217491,316245,Non-roster,No,Department,2017-10-01,2017-01-01,UNS:4083,IST,287
+2017,PSJO,MAGNET,UN-OFFICE-5,Male,Trinidad and Tobago,Latin American and Caribbean,Administration,P-5,2017,218628,316260,Roster,Yes,Office,2017-01-01,2017-01-01,UNS:6112,ADM,8
+2019,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Statistics,P-3,2019,372366,316368,Roster,Yes,Department,2019-12-01,2019-10-01,UNS:6539,STT,58
+2022,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-4,2022,524481,316704,Roster,Yes,OAH,2022-04-01,2022-02-01,UNS:8057,LAN,64
+2017,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-5,2016,199296,316737,Non-roster,Yes,OAH,2017-04-01,2016-09-01,UNS:8693,LAN,203
+2021,PSJO,INFONET,UN-OAH-2,Male,United Kingdom,Western Europe and Others,Language,P-5,2019,386247,316824,Non-roster,No,OAH,2021-06-01,2019-12-01,UNS:8452,LAN,538
+2018,PSJO,DEVNET,UN-DEPT-3,Male,China,Asia-Pacific,Sustainable Development,P-4,2018,272874,317274,Roster,Yes,Department,2018-04-01,2018-01-01,UNS:6658,SUS,99
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Programme Management,P-5,2019,351177,317409,Roster,Yes,Department,2022-06-01,2019-06-01,UNS:6291,PGM,"1,113"
+2019,RfR,LOGNET,UN-PKO-1,Male,Paraguay,Latin American and Caribbean,Transportation,P-3,2019,345681,317577,Roster,Yes,Peacekeeping Mission,2019-06-01,2019-04-01,UNS:1163,TRA,50
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Public Administration,P-4,2018,288027,318336,Non-roster,No,Department,2018-09-01,2018-04-01,UNS:3618,PBA,149
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Mexico,Latin American and Caribbean,Statistics,P-4,2017,258591,318459,Roster,Yes,Department,2017-11-01,2017-10-01,UNS:6540,STT,42
+2017,PSJO,POLNET,UN-OFFICE-5,Male,Uzbekistan,Asia-Pacific,Political Affairs,P-5,2017,218835,318465,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:6285,POL,24
+2022,PSJO,MAGNET,UN-DEPT-3,Female,Japan,Asia-Pacific,Finance,P-5,2022,553911,319611,Roster,Yes,Department,2022-07-01,2022-06-01,UNS:10243,FIN,29
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Economic Affairs,P-5,2016,215946,321126,Roster,Yes,Department,2017-03-01,2016-12-01,UNS:7333,ECO,83
+2019,PSJO,MAGNET,UN-OAH-2,Female,Hungary,Eastern European,Administration,P-3,2018,314106,321150,Non-roster,No,OAH,2019-11-01,2018-10-01,UNS:1102,ADM,400
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Italy,Western Europe and Others,Programme Management,P-4,2016,212265,321222,Non-roster,No,Department,2018-04-01,2016-12-01,UNS:5283,PGM,476
+2022,RfR,ITECNET,UN-PKO-1,Male,Burundi,Africa,Information Management Systems and Technology,P-4,2022,527310,322557,Roster,Yes,Peacekeeping Mission,2022-05-01,2022-03-01,UNS:2109,IST,64
+2017,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Statistics,P-4,2016,204177,323499,Non-roster,No,Department,2017-08-01,2016-10-01,UNS:6540,STT,299
+2018,PSJO,INFONET,UN-OAH-2,Male,Congo,Africa,Language,P-4,2017,264426,323622,Roster,Yes,OAH,2018-01-01,2017-12-01,UNS:7569,LAN,32
+2022,PSJO,LOGNET,UN-PKO-1,Male,Zimbabwe,Africa,Logistics and Supply Chain,P-4,2021,460134,324537,Non-roster,No,Peacekeeping Mission,2022-05-01,2021-04-01,UNS:4539,LOG,385
+2021,PSJO,MAGNET,UN-OAH-2,Female,Malta,Western Europe and Others,Human Resources,P-4,2021,505107,324543,Roster,Yes,OAH,2021-12-01,2021-11-01,UNS:8727,HRE,26
+2021,PSJO,DEVNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Programme Management,P-4,2021,484944,325119,Roster,Yes,OAH,2021-09-01,2021-09-01,UNS:5283,PGM,8
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Economic Affairs,P-5,2018,279132,325167,Non-roster,No,Department,2018-10-01,2018-02-01,UNS:7333,ECO,231
+2020,PSJO,MAGNET,UN-OAH-2,Male,Senegal,Africa,Administration,P-3,2019,374445,326064,Non-roster,Yes,OAH,2020-08-01,2019-11-01,UNS:1102,ADM,291
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Sustainable Development,P-4,2017,242100,326667,Non-roster,No,Department,2018-05-01,2017-06-01,UNS:6658,SUS,331
+2018,PSJO,INFONET,UN-OAH-2,Female,Switzerland,Western Europe and Others,Language,P-4,2018,276441,326775,Non-roster,Yes,OAH,2018-08-01,2018-01-01,UNS:8630,LAN,196
+2017,RfR,INFONET,UN-PKO-1,Male,Cameroon,Africa,Public Information,P-3,2017,241185,327249,Roster,Yes,Peacekeeping Mission,2017-11-01,2017-07-01,UNS:5560,PUB,132
+2017,PSJO,MAGNET,UN-OAH-2,Female,France,Western Europe and Others,Human Resources,P-4,2017,224208,327438,Non-roster,No,OAH,2017-08-01,2017-02-01,UNS:3822,HRE,195
+2018,RfR,POLNET,UN-PKO-1,Female,United Kingdom,Western Europe and Others,Political Affairs,P-5,2018,313902,330270,Roster,Yes,Peacekeeping Mission,2018-11-01,2018-10-01,UNS:6285,POL,50
+2022,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Economic Affairs,P-5,2021,493839,331116,Non-roster,No,Department,2022-07-01,2021-10-01,UNS:7333,ECO,280
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Economic Affairs,P-4,2017,240705,331116,Roster,Yes,Department,2017-08-01,2017-06-01,UNS:7284,ECO,70
+2022,PSJO,MAGNET,UN-OAH-2,Female,Italy,Western Europe and Others,Human Resources,P-4,2022,563715,336195,Roster,Yes,OAH,2022-08-01,2022-08-01,UNS:3822,HRE,11
+2018,PSJO,MAGNET,UN-OAH-2,Female,Italy,Western Europe and Others,Human Resources,P-3,2018,280185,336195,Non-roster,No,OAH,2018-07-01,2018-03-01,UNS:3819,HRE,148
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Portugal,Western Europe and Others,Social Affairs,P-4,2017,237027,336219,Non-roster,Yes,Department,2018-02-01,2017-05-01,UNS:6386,SOC,251
+2017,PSJO,LOGNET,UN-PKO-1,Female,Italy,Western Europe and Others,Logistics and Supply Chain,P-4,2016,177873,340923,Non-roster,No,Peacekeeping Mission,2017-05-01,2016-04-01,UNS:6644,LOG,386
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Italy,Western Europe and Others,Economic Affairs,P-4,2017,241293,341172,Non-roster,No,Department,2017-10-01,2017-06-01,UNS:7284,ECO,126
+2020,RfR,MAGNET,UN-PKO-1,Female,Senegal,Africa,Human Resources,P-4,2020,390720,343317,Roster,Yes,Peacekeeping Mission,2020-02-01,2020-01-01,UNS:3822,HRE,31
+2021,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-5,2020,390768,351294,Non-roster,No,OAH,2021-04-01,2020-02-01,UNS:8701,LAN,448
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Iceland,Western Europe and Others,Social Affairs,P-4,2022,513099,351831,Roster,Yes,Department,2022-05-01,2022-01-01,UNS:6386,SOC,116
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Iceland,Western Europe and Others,Social Affairs,P-4,2016,209205,351831,Roster,Yes,Department,2017-01-01,2016-12-01,UNS:6386,SOC,23
+2020,RfR,SAFETYNET,UN-PKO-1,Male,Uganda,Africa,Security,P-4,2020,415086,353076,Roster,Yes,Peacekeeping Mission,2020-10-01,2020-07-01,UNS:2744,SEC,98
+2017,RfR,LEGALNET,UN-PKO-1,Male,Burundi,Africa,Legal Affairs,P-5,2016,191313,353835,Roster,Yes,Peacekeeping Mission,2017-01-01,2016-07-01,UNS:6236,LEG,182
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Kenya,Africa,Statistics,P-5,2016,179298,360633,Non-roster,No,Department,2017-06-01,2016-05-01,UNS:6341,STT,387
+2018,PSJO,LEGALNET,UN-PKO-1,Female,Belgium,Western Europe and Others,Legal Affairs,P-3,2018,257454,360792,Non-roster,No,Peacekeeping Mission,2018-10-01,2018-02-01,UNS:4426,LEG,251
+2021,PSJO,MAGNET,UN-DEPT-3,Female,Philippines,Asia-Pacific,Finance,P-4,2021,497388,361443,Roster,Yes,Department,2021-12-01,2021-12-01,UNS:3350,FIN,7
+2021,PSJO,INFONET,UN-OAH-2,Male,France,Western Europe and Others,Language,P-5,2020,390768,364074,Non-roster,No,OAH,2021-04-01,2020-02-01,UNS:8701,LAN,448
+2020,PSJO,DEVNET,UN-DEPT-3,Female,South Africa,Africa,Public Administration,P-5,2020,391980,365760,Non-roster,No,Department,2020-09-01,2020-02-01,UNS:10100,PBA,228
+2017,PSJO,DEVNET,UN-DEPT-3,Female,South Africa,Africa,Economic Affairs,P-5,2016,204198,365760,Non-roster,No,Department,2017-10-01,2016-11-01,UNS:7577,ECO,333
+2017,PSJO,ITECNET,UN-OAH-2,Male,Bosnia and Herzegovina,Eastern European,Information Management Systems and Technology,P-4,2016,185376,367374,Non-roster,No,OAH,2017-08-01,2016-09-01,UNS:4086,IST,336
+2017,RfR,SAFETYNET,UN-PKO-1,Male,Russian Federation,Eastern European,Security,P-3,2017,237354,370650,Roster,Yes,Peacekeeping Mission,2017-07-01,2017-05-01,UNS:5987,SEC,74
+2019,RfR,POLNET,UN-SPM-4,Female,Austria,Western Europe and Others,Political Affairs,P-5,2019,330459,374592,Roster,Yes,Special Political Mission,2019-03-01,2019-01-01,UNS:6285,POL,63
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Canada,Western Europe and Others,Social Affairs,P-3,2017,268518,375237,Mixed,No,Department,2018-07-01,2017-12-01,UNS:6384,SOC,216
+2017,PSJO,DEVNET,UN-DEPT-3,Male,South Africa,Africa,Sustainable Development,P-5,2017,224925,377469,Non-roster,No,Department,2017-12-01,2017-03-01,UNS:6345,SUS,291
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Benin,Africa,Population Affairs,P-5,2016,195738,380787,Roster,Yes,Department,2017-08-01,2016-09-01,UNS:7564,POP,316
+2018,RfR,LOGNET,UN-PKO-1,Male,Ethiopia,Africa,Engineering,P-3,2018,301383,381477,Non-roster,No,Peacekeeping Mission,2018-10-01,2018-07-01,UNS:7152,ENG,80
+2020,PSJO,MAGNET,UN-DEPT-3,Female,Japan,Asia-Pacific,Finance,P-4,2019,358932,383292,Non-roster,Yes,Department,2020-01-01,2019-07-01,UNS:3350,FIN,181
+2018,PSJO,MAGNET,UN-DEPT-3,Female,Japan,Asia-Pacific,Finance,P-3,2018,281343,383292,Roster,Yes,Department,2018-04-01,2018-03-01,UNS:3349,FIN,50
+2017,RfR,LOGNET,UN-PKO-1,Female,Germany,Western Europe and Others,Logistics and Supply Chain,P-3,2016,164424,384651,Roster,Yes,Peacekeeping Mission,2017-03-01,2016-04-01,UNS:6641,LOG,339
+2018,PSJO,LOGNET,UN-OAH-2,Male,Algeria,Africa,Procurement,P-4,2018,273636,388662,Roster,Yes,OAH,2018-06-01,2018-03-01,UNS:5226,PRO,82
+2018,PSJO,MAGNET,UN-OAH-2,Female,Romania,Eastern European,Human Resources,P-4,2018,271368,395835,Roster,Yes,OAH,2018-01-01,2018-01-01,UNS:3822,HRE,21
+2017,PSJO,INFONET,UN-OAH-2,Female,Italy,Western Europe and Others,Conference Services,P-5,2016,193851,397344,Non-roster,No,OAH,2017-03-01,2016-08-01,UNS:7471,CON,224
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Armenia,Eastern European,Economic Affairs,P-4,2022,528006,399336,Roster,Yes,Department,2022-05-01,2022-04-01,UNS:7284,ECO,36
+2017,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Statistics,P-5,2017,254478,407745,Roster,Yes,Department,2017-10-01,2017-09-01,UNS:6341,STT,32
+2018,PSJO,ITECNET,UN-OAH-2,Female,Australia,Western Europe and Others,Information Management Systems and Technology,P-3,2018,305589,407757,Roster,Yes,OAH,2018-08-01,2018-08-01,UNS:4083,IST,14
+2019,PSJO,INFONET,UN-OAH-2,Female,Maldives,Asia-Pacific,Conference Services,P-4,2018,297570,413193,Non-roster,No,OAH,2019-04-01,2018-08-01,UNS:2924,CON,251
+2021,RfR,POLNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Civil Affairs,P-3,2021,464202,418245,Roster,Yes,Peacekeeping Mission,2021-08-01,2021-05-01,UNS:2337,CIV,116
+2020,PSJO,POLNET,UN-PKO-1,Female,Kenya,Africa,Rule of Law,P-4,2020,395583,420117,Non-roster,No,Peacekeeping Mission,2020-10-01,2020-03-01,UNS:2628,ROL,210
+2017,PSJO,MAGNET,UN-DEPT-3,Female,Italy,Western Europe and Others,Administration,P-4,2016,186339,420321,Non-roster,No,Department,2017-09-01,2016-07-01,UNS:7798,ADM,442
+2018,PSJO,ITECNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Information Management Systems and Technology,P-3,2018,285498,421935,Roster,Yes,Department,2018-05-01,2018-04-01,UNS:4083,IST,26
+2021,PSJO,INFONET,UN-OAH-2,Male,Russian Federation,Eastern European,Language,P-5,2020,391818,425184,Non-roster,Yes,OAH,2021-04-01,2020-02-01,UNS:8702,LAN,446
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Italy,Western Europe and Others,Population Affairs,P-4,2017,227379,428631,Roster,Yes,Department,2017-09-01,2017-03-01,UNS:5127,POP,185
+2022,PSJO,DEVNET,UN-DEPT-3,Female,Ecuador,Latin American and Caribbean,Statistics,P-3,2022,513414,429159,Roster,Yes,Department,2022-05-01,2022-01-01,UNS:6539,STT,123
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Ecuador,Latin American and Caribbean,Statistics,P-3,2017,217482,429159,Non-roster,No,Department,2018-03-01,2017-01-01,UNS:6539,STT,417
+2020,PSJO,SAFETYNET,UN-PKO-1,Male,Egypt,Africa,Security,P-3,2019,336783,435951,Non-roster,Yes,Peacekeeping Mission,2020-12-01,2019-04-01,UNS:5987,SEC,602
+2022,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-4,2022,556884,436674,Roster,Yes,OAH,2022-08-01,2022-07-01,UNS:8234,LAN,27
+2022,RfR,LOGNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Property and Asset Management,P-4,2022,527244,440913,Roster,Yes,Peacekeeping Mission,2022-07-01,2022-04-01,UNS:5429,PAM,103
+2019,RfR,POLNET,UN-PKO-1,Male,Italy,Western Europe and Others,Political Affairs,P-4,2019,337977,441321,Roster,Yes,Peacekeeping Mission,2019-04-01,2019-03-01,UNS:3927,POL,48
+2018,RfR,ITECNET,UN-PKO-1,Female,Canada,Western Europe and Others,Information Management Systems and Technology,P-4,2018,302208,442536,Roster,Yes,Peacekeeping Mission,2018-09-01,2018-07-01,UNS:2109,IST,52
+2019,PSJO,MAGNET,UN-OAH-2,Female,Uzbekistan,Asia-Pacific,Human Resources,P-3,2018,322422,442701,Non-roster,No,OAH,2019-04-01,2018-12-01,UNS:3819,HRE,122
+2021,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Public Administration,P-4,2020,384459,456621,Non-roster,Yes,Department,2021-10-01,2020-01-01,UNS:3618,PBA,632
+2018,RfR,POLNET,UN-PKO-1,Male,Rwanda,Africa,Civil Affairs,P-4,2018,285957,470004,Roster,Yes,Peacekeeping Mission,2018-04-01,2018-04-01,UNS:2339,CIV,22
+2022,RfR,LOGNET,UN-PKO-1,Male,"Tanzania, United Republic of",Africa,Procurement,P-5,2020,433194,503181,Roster,Yes,Peacekeeping Mission,2022-02-01,2020-11-01,UNS:10136,PRO,465
+2017,PSJO,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Rule of Law,P-3,2016,162897,504459,Non-roster,No,Peacekeeping Mission,2017-02-01,2016-01-01,UNS:4297,ROL,390
+2022,PSJO,LOGNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Engineering,P-5,2021,454416,506388,Non-roster,No,Peacekeeping Mission,2022-01-01,2021-03-01,UNS:2071,ENG,309
+2019,RfR,LOGNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Engineering,P-4,2018,285615,506388,Roster,Yes,Peacekeeping Mission,2019-05-01,2018-04-01,UNS:3156,ENG,399
+2018,RfR,POLNET,UN-PKO-1,Male,Gabon,Africa,Political Affairs,P-5,2018,285420,510471,Roster,Yes,Peacekeeping Mission,2018-04-01,2018-03-01,UNS:8722,POL,26
+2021,PSJO,MAGNET,UN-OFFICE-5,Male,Uganda,Africa,Administration,P-5,2021,479640,511392,Roster,Yes,Office,2021-10-01,2021-08-01,UNS:3243,ADM,68
+2018,PSJO,INFONET,UN-OAH-2,Male,France,Western Europe and Others,Documentation and Information Management,P-3,2018,271578,513630,Non-roster,No,OAH,2018-11-01,2018-01-01,UNS:4477,DOC,302
+2020,PSJO,MAGNET,UN-OAH-2,Male,Trinidad and Tobago,Latin American and Caribbean,Finance,P-3,2020,399378,527691,Roster,Yes,OAH,2020-04-01,2020-03-01,UNS:1012,FIN,34
+2017,PSJO,DEVNET,UN-DEPT-3,Male,China,Asia-Pacific,Economic Affairs,P-5,2017,218277,531684,Non-roster,No,Department,2017-09-01,2017-01-01,UNS:7605,ECO,229
+2020,PSJO,POLNET,UN-PKO-1,Male,Lebanon,Asia-Pacific,Political Affairs,P-3,2019,371961,546798,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-10-01,UNS:5119,POL,399
+2021,RfR,MAGNET,UN-PKO-1,Female,Guyana,Latin American and Caribbean,Administration,P-3,2021,440058,555822,Roster,Yes,Peacekeeping Mission,2021-04-01,2021-01-01,UNS:2506,ADM,87
+2019,PSJO,DEVNET,UN-DEPT-3,Female,Japan,Asia-Pacific,Programme Management,P-4,2019,344088,562692,Non-roster,No,Department,2019-11-01,2019-04-01,UNS:5283,PGM,224
+2022,PSJO,POLNET,UN-PKO-1,Female,China,Asia-Pacific,Political Affairs,P-5,2020,429126,569679,Non-roster,No,Peacekeeping Mission,2022-03-01,2020-11-01,UNS:7501,POL,492
+2018,RfR,MAGNET,UN-PKO-1,Female,Canada,Western Europe and Others,Administration,P-4,2018,310854,570216,Roster,Yes,Peacekeeping Mission,2018-10-01,2018-09-01,UNS:1103,ADM,23
+2022,PSJO,INFONET,UN-OAH-2,Female,Switzerland,Western Europe and Others,Language,P-5,2022,516996,584364,Non-roster,No,OAH,2022-01-01,2022-01-01,UNS:8694,LAN,10
+2019,RfR,LOGNET,UN-PKO-1,Female,France,Western Europe and Others,Procurement,P-3,2018,322797,586113,Roster,Yes,Peacekeeping Mission,2019-02-01,2018-12-01,UNS:5223,PRO,76
+2021,RfR,POLNET,UN-PKO-1,Male,Cameroon,Africa,Political Affairs,P-3,2021,459888,588042,Roster,Yes,Peacekeeping Mission,2021-06-01,2021-04-01,UNS:5119,POL,59
+2021,RfR,POLNET,UN-PKO-1,Male,Canada,Western Europe and Others,Human Rights Affairs,P-4,2021,446106,595455,Roster,Yes,Peacekeeping Mission,2021-05-01,2021-02-01,UNS:3876,HRI,109
+2017,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Economic Affairs,P-4,2016,210435,602694,Non-roster,No,Department,2017-06-01,2016-12-01,UNS:7284,ECO,170
+2017,RfR,SAFETYNET,UN-PKO-1,Male,France,Western Europe and Others,Security,P-3,2016,211044,619959,Mixed,Yes,Peacekeeping Mission,2017-02-01,2016-12-01,UNS:5987,SEC,59
+2019,RfR,POLNET,UN-PKO-1,Male,Togo,Africa,Human Rights Affairs,P-3,2019,336669,654321,Roster,Yes,Peacekeeping Mission,2019-04-01,2019-02-01,UNS:3873,HRI,42
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Austria,Western Europe and Others,Economic Affairs,P-5,2017,244209,663726,Non-roster,No,Department,2017-12-01,2017-07-01,UNS:7333,ECO,148
+2017,PSJO,INFONET,UN-PKO-1,Male,Sierra Leone,Africa,Conference Services,P-3,2016,194325,686097,Non-roster,No,Peacekeeping Mission,2017-02-01,2016-08-01,UNS:2509,CON,185
+2022,RfR,SAFETYNET,UN-PKO-1,Male,Romania,Eastern European,Security,P-3,2022,516039,688332,Roster,Yes,Peacekeeping Mission,2022-03-01,2022-01-01,UNS:5987,SEC,76
+2022,PSJO,INFONET,UN-DEPT-3,Female,Barbados,Latin American and Caribbean,Public Information,P-5,2021,471012,688884,Non-roster,No,Department,2022-03-01,2021-06-01,UNS:6313,PUB,268
+2022,RfR,POLNET,UN-PKO-1,Male,Benin,Africa,Security Institutions,P-3,2021,512997,689454,Roster,Yes,Peacekeeping Mission,2022-02-01,2021-12-01,UNS:6096,SEI,44
+2017,PSJO,DEVNET,UN-OAH-2,Male,Germany,Western Europe and Others,Programme Management,P-5,2016,186408,694674,Non-roster,No,OAH,2017-11-01,2016-07-01,UNS:6291,PGM,481
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Uganda,Africa,Population Affairs,P-4,2018,307626,713202,Non-roster,No,Department,2021-10-01,2018-09-01,UNS:5127,POP,"1,128"
+2022,PSJO,INFONET,UN-OAH-2,Male,United States of America,Western Europe and Others,Documentation and Information Management,P-4,2022,516744,717972,Non-roster,No,OAH,2022-09-01,2022-03-01,UNS:7867,DOC,167
+2017,PSJO,ITECNET,UN-OAH-2,Male,United States of America,Western Europe and Others,Information Management Systems and Technology,P-3,2016,216048,717972,Roster,Yes,OAH,2017-01-01,2016-12-01,UNS:3981,IST,19
+2017,PSJO,INFONET,UN-OAH-2,Male,Morocco,Africa,Language,P-5,2017,242928,719364,Roster,Yes,OAH,2017-08-01,2017-06-01,UNS:8453,LAN,47
+2017,PSJO,INFONET,UN-OAH-2,Male,Russian Federation,Eastern European,Language,P-5,2016,203295,728286,Roster,Yes,OAH,2017-02-01,2016-10-01,UNS:8702,LAN,137
+2021,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Economic Affairs,P-5,2021,443070,728313,Non-roster,No,Department,2021-08-01,2021-01-01,UNS:7577,ECO,227
+2018,RfR,DEVNET,UN-SPM-4,Female,"Venezuela, Bolivarian Rep. of",Latin American and Caribbean,Economic Affairs,P-5,2017,248634,732843,Roster,Yes,Special Political Mission,2018-04-01,2017-07-01,UNS:7333,ECO,271
+2021,PSJO,MAGNET,UN-OAH-2,Female,Lithuania,Eastern European,Finance,P-4,2021,480126,736197,Roster,Yes,OAH,2021-07-01,2021-07-01,UNS:3350,FIN,7
+2017,PSJO,MAGNET,UN-OAH-2,Female,Lithuania,Eastern European,Finance,P-3,2017,260871,736197,Roster,Yes,OAH,2017-10-01,2017-10-01,UNS:10249,FIN,13
+2018,RfR,LOGNET,UN-PKO-1,Male,Uruguay,Latin American and Caribbean,Logistics and Supply Chain,P-5,2017,265971,739143,Roster,Yes,Peacekeeping Mission,2018-01-01,2017-11-01,UNS:6251,LOG,61
+2021,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2021,458100,740220,Non-roster,No,OAH,2021-10-01,2021-04-01,UNS:8633,LAN,193
+2022,PSJO,INFONET,UN-OAH-2,Female,Uruguay,Latin American and Caribbean,Language,P-5,2021,473310,740400,Non-roster,No,OAH,2022-01-01,2021-06-01,UNS:8703,LAN,219
+2017,PSJO,INFONET,UN-OAH-2,Male,Belarus,Eastern European,Language,P-5,2017,237324,740763,Roster,Yes,OAH,2017-06-01,2017-05-01,UNS:8702,LAN,43
+2017,PSJO,INFONET,UN-OAH-2,Female,Canada,Western Europe and Others,Language,P-5,2016,208455,740847,Non-roster,No,OAH,2017-10-01,2016-11-01,UNS:8693,LAN,343
+2022,PSJO,INFONET,UN-OAH-2,Male,Spain,Western Europe and Others,Language,P-5,2021,473310,741582,Non-roster,Yes,OAH,2022-01-01,2021-06-01,UNS:8703,LAN,219
+2018,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-5,2018,307320,746271,Roster,Yes,OAH,2018-09-01,2018-09-01,UNS:8700,LAN,20
+2019,PSJO,DEVNET,UN-DEPT-3,Male,China,Asia-Pacific,Public Administration,P-5,2018,290943,749997,Non-roster,No,Department,2019-04-01,2018-05-01,UNS:6183,PBA,335
+2017,PSJO,MAGNET,UN-OFFICE-5,Female,Belgium,Western Europe and Others,Investigation,P-4,2017,219081,765042,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:4269,ING,24
+2019,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Population Affairs,P-5,2018,277086,766071,Non-roster,No,Department,2019-05-01,2018-03-01,UNS:6286,POP,423
+2019,RfR,POLNET,UN-PKO-1,Male,China,Asia-Pacific,Political Affairs,P-3,2018,323955,772548,Roster,Yes,Peacekeeping Mission,2019-02-01,2018-12-01,UNS:5119,POL,79
+2017,PSJO,POLNET,UN-OFFICE-5,Male,China,Asia-Pacific,Political Affairs,P-3,2015,141261,772548,Non-roster,No,Office,2017-02-01,2015-12-01,UNS:5119,POL,427
+2020,PSJO,LEGALNET,UN-OAH-2,Male,Switzerland,Western Europe and Others,Legal Affairs,P-4,2019,380475,773364,Non-roster,No,OAH,2020-04-01,2019-12-01,UNS:4430,LEG,135
+2017,RfR,MAGNET,UN-PKO-1,Male,"Congo, The Democratic Republic",Africa,Administration,P-3,2016,211506,777825,Roster,Yes,Peacekeeping Mission,2017-01-01,2016-11-01,UNS:2506,ADM,48
+2018,PSJO,INFONET,UN-OAH-2,Female,Belgium,Western Europe and Others,Language,P-4,2018,274716,783936,Non-roster,Yes,OAH,2018-07-01,2018-01-01,UNS:8633,LAN,190
+2019,RfR,POLNET,UN-PKO-1,Male,Senegal,Africa,Political Affairs,P-5,2019,361089,784089,Roster,Yes,Peacekeeping Mission,2019-12-01,2019-09-01,UNS:6285,POL,83
+2018,PSJO,INFONET,UN-OAH-2,Male,Australia,Western Europe and Others,Language,P-4,2018,296670,786435,Non-roster,Yes,OAH,2018-11-01,2018-06-01,UNS:8057,LAN,158
+2017,PSJO,INFONET,UN-OAH-2,Male,Uzbekistan,Asia-Pacific,Conference Services,P-3,2016,178092,786456,Non-roster,No,OAH,2017-01-01,2016-05-01,UNS:5568,CON,239
+2018,PSJO,MAGNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Administration,P-5,2017,233889,791361,Non-roster,No,Peacekeeping Mission,2018-06-01,2017-04-01,UNS:2045,ADM,425
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Social Affairs,P-4,2018,314262,802683,Roster,Yes,Department,2018-12-01,2018-10-01,UNS:6386,SOC,54
+2019,PSJO,DEVNET,UN-DEPT-3,Female,Mexico,Latin American and Caribbean,Statistics,P-4,2018,308847,805953,Non-roster,No,Department,2019-09-01,2018-10-01,UNS:6540,STT,328
+2019,PSJO,POLNET,UN-PKO-1,Female,Australia,Western Europe and Others,Human Rights Affairs,P-5,2018,322395,808761,Non-roster,No,Peacekeeping Mission,2019-08-01,2018-12-01,UNS:10422,HRI,267
+2021,PSJO,INFONET,UN-OAH-2,Male,China,Asia-Pacific,Language,P-5,2020,423477,809136,Non-roster,Yes,OAH,2021-07-01,2020-09-01,UNS:8699,LAN,316
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Brazil,Latin American and Caribbean,Sustainable Development,P-5,2017,218073,815784,Non-roster,No,Department,2018-03-01,2017-01-01,UNS:6345,SUS,416
+2021,RfR,INFONET,UN-PKO-1,Male,Burkina Faso,Africa,Public Information,P-5,2020,412131,833142,Roster,Yes,Peacekeeping Mission,2021-01-01,2020-07-01,UNS:6313,PUB,182
+2017,PSJO,MAGNET,UN-OFFICE-5,Male,"Korea, Republic of",Asia-Pacific,Finance,P-3,2017,219102,843516,Mixed,Yes,Office,2017-02-01,2017-01-01,UNS:3427,FIN,14
+2021,RfR,POLNET,UN-PKO-1,Male,Haiti,Latin American and Caribbean,Rule of Law,P-3,2021,498936,850734,Roster,Yes,Peacekeeping Mission,2021-12-01,2021-11-01,UNS:4297,ROL,51
+2018,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Programme Management,P-4,2018,280254,857601,Roster,Yes,Department,2018-04-01,2018-03-01,UNS:5283,PGM,42
+2021,PSJO,POLNET,UN-PKO-1,Male,"Congo, The Democratic Republic",Africa,Rule of Law,P-4,2021,445338,865092,Non-roster,No,Peacekeeping Mission,2021-09-01,2021-02-01,UNS:4298,ROL,195
+2017,PSJO,POLNET,UN-PKO-1,Male,Burkina Faso,Africa,Rule of Law,P-3,2016,162897,869655,Non-roster,No,Peacekeeping Mission,2017-01-01,2016-01-01,UNS:4297,ROL,374
+2021,PSJO,INFONET,UN-OAH-2,Female,Tunisia,Africa,Language,P-4,2021,473289,870303,Roster,Yes,OAH,2021-07-01,2021-06-01,UNS:8630,LAN,29
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Chile,Latin American and Caribbean,Economic Affairs,P-4,2018,316773,870696,Non-roster,No,Department,2021-12-01,2018-11-01,UNS:7284,ECO,"1,124"
+2017,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Sustainable Development,P-5,2016,189585,896058,Non-roster,No,Department,2017-05-01,2016-08-01,UNS:6345,SUS,287
+2019,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Programme Management,P-4,2018,316602,899847,Roster,Yes,Department,2019-02-01,2018-12-01,UNS:5283,PGM,61
+2019,PSJO,ITECNET,UN-DEPT-3,Male,France,Western Europe and Others,Information Management Systems and Technology,P-3,2018,292368,911658,Non-roster,No,Department,2019-03-01,2018-08-01,UNS:4083,IST,227
+2021,PSJO,MAGNET,UN-DEPT-3,Male,China,Asia-Pacific,Finance,P-3,2021,443703,927489,Roster,Yes,Department,2021-07-01,2021-01-01,UNS:3349,FIN,195
+2019,PSJO,DEVNET,UN-DEPT-3,Female,Denmark,Western Europe and Others,Programme Management,P-3,2016,207162,942441,Non-roster,No,Department,2019-06-01,2016-12-01,UNS:8412,PGM,920
+2019,PSJO,ITECNET,UN-OAH-2,Male,Andorra,Western Europe and Others,Information Management Systems and Technology,P-3,2019,325209,959193,Roster,Yes,OAH,2019-01-01,2019-01-01,UNS:4083,IST,14
+2022,RfR,POLNET,UN-PKO-1,Female,Switzerland,Western Europe and Others,Human Rights Affairs,P-4,2022,522279,981363,Roster,Yes,Peacekeeping Mission,2022-03-01,2022-02-01,UNS:3876,HRI,43
+2017,PSJO,POLNET,UN-PKO-1,Female,Austria,Western Europe and Others,Human Rights Affairs,P-3,2015,140862,1003341,Non-roster,No,Peacekeeping Mission,2017-03-01,2015-08-01,UNS:5461,HRI,560
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Mexico,Latin American and Caribbean,Social Affairs,P-3,2018,277761,1009917,Non-roster,No,Department,2018-09-01,2018-02-01,UNS:6384,SOC,212
+2017,PSJO,POLNET,UN-PKO-1,Male,Colombia,Latin American and Caribbean,Human Rights Affairs,P-3,2015,140862,1017765,Non-roster,No,Peacekeeping Mission,2017-06-01,2015-08-01,UNS:5461,HRI,662
+2021,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-5,2020,391818,1031634,Non-roster,No,OAH,2021-04-01,2020-02-01,UNS:8702,LAN,446
+2017,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-4,2017,229569,1031634,Roster,Yes,OAH,2017-08-01,2017-03-01,UNS:7548,LAN,144
+2019,PSJO,INFONET,UN-OAH-2,Male,Spain,Western Europe and Others,Language,P-4,2019,365928,1048344,Roster,Yes,OAH,2019-09-01,2019-08-01,UNS:8634,LAN,15
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Chile,Latin American and Caribbean,Social Affairs,P-5,2021,493719,1097934,Non-roster,No,Department,2022-07-01,2021-09-01,UNS:7583,SOC,307
+2019,RfR,POLNET,UN-PKO-1,Female,Canada,Western Europe and Others,Rule of Law,P-3,2018,323820,1105473,Roster,Yes,Peacekeeping Mission,2019-04-01,2018-12-01,UNS:4297,ROL,119
+2018,PSJO,INFONET,UN-OAH-2,Male,Russian Federation,Eastern European,Language,P-4,2017,271551,1115760,Roster,Yes,OAH,2018-01-01,2017-12-01,UNS:8234,LAN,22
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Ireland,Western Europe and Others,Social Affairs,P-5,2019,380511,1116855,Non-roster,No,Department,2020-07-01,2019-11-01,UNS:7583,SOC,243
+2022,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2022,515631,1140081,Roster,Yes,OAH,2022-01-01,2022-01-01,UNS:8236,LAN,12
+2018,RfR,DEVNET,UN-PKO-1,Female,France,Western Europe and Others,Programme Management,P-4,2017,262677,1146186,Roster,Yes,Peacekeeping Mission,2018-04-01,2017-11-01,UNS:5283,PGM,154
+2017,PSJO,ITECNET,UN-OAH-2,Male,Italy,Western Europe and Others,Information Management Systems and Technology,P-3,2016,183393,1156431,Non-roster,No,OAH,2017-03-01,2016-06-01,UNS:4083,IST,273
+2018,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Statistics,P-3,2018,293133,1175238,Non-roster,No,Department,2018-11-01,2018-05-01,UNS:6539,STT,156
+2018,RfR,POLNET,UN-PKO-1,Female,United States of America,Western Europe and Others,Civil Affairs,P-3,2018,280320,1180005,Roster,Yes,Peacekeeping Mission,2018-04-01,2018-02-01,UNS:2337,CIV,42
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Honduras,Latin American and Caribbean,Programme Management,P-4,2017,236634,1180962,Roster,Yes,Department,2017-05-01,2017-05-01,UNS:5283,PGM,9
+2019,PSJO,INFONET,UN-OAH-2,Female,New Zealand,Western Europe and Others,Public Information,P-3,2019,328536,1216935,Non-roster,No,OAH,2019-07-01,2019-01-01,UNS:2438,PUB,169
+2017,PSJO,DEVNET,UN-DEPT-3,Male,United Kingdom,Western Europe and Others,Statistics,P-4,2016,164739,1221585,Non-roster,No,Department,2017-06-01,2016-02-01,UNS:6540,STT,491
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Norway,Western Europe and Others,Economic Affairs,P-3,2018,279078,1222995,Roster,Yes,Department,2018-05-01,2018-04-01,UNS:7283,ECO,25
+2021,RfR,LOGNET,UN-PKO-1,Male,Bhutan,Asia-Pacific,Engineering,P-3,2020,436131,1238295,Roster,Yes,Peacekeeping Mission,2021-02-01,2020-11-01,UNS:3153,ENG,73
+2021,PSJO,INFONET,UN-OAH-2,Female,China,Asia-Pacific,Language,P-4,2021,473418,1244898,Non-roster,No,OAH,2021-12-01,2021-06-01,UNS:8631,LAN,174
+2019,RfR,POLNET,UN-PKO-1,Male,Sierra Leone,Africa,Human Rights Affairs,P-5,2019,366375,1248393,Roster,Yes,Peacekeeping Mission,2019-10-01,2019-08-01,UNS:6196,HRI,42
+2021,PSJO,POLNET,UN-SPM-4,Male,Cameroon,Africa,Political Affairs,P-3,2021,448071,1296981,Non-roster,No,Special Political Mission,2021-11-01,2021-02-01,UNS:5119,POL,279
+2021,RfR,POLNET,UN-PKO-1,Female,Brazil,Latin American and Caribbean,Political Affairs,P-3,2021,459903,1324098,Roster,Yes,Peacekeeping Mission,2021-06-01,2021-04-01,UNS:5119,POL,58
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United Kingdom,Western Europe and Others,Social Affairs,P-3,2018,305490,1325316,Roster,Yes,Department,2018-09-01,2018-08-01,UNS:6384,SOC,43
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Japan,Asia-Pacific,Economic Affairs,P-5,2016,213036,1326939,Roster,Yes,Department,2017-03-01,2016-12-01,UNS:7333,ECO,91
+2017,PSJO,POLNET,UN-PKO-1,Male,Benin,Africa,Political Affairs,P-4,2015,145194,1329657,Non-roster,No,Peacekeeping Mission,2017-03-01,2015-09-01,UNS:5121,POL,535
+2017,PSJO,POLNET,UN-PKO-1,Male,United Kingdom,Western Europe and Others,Political Affairs,P-5,2016,161253,1382061,Non-roster,No,Peacekeeping Mission,2017-04-01,2016-01-01,UNS:8722,POL,465
+2017,PSJO,INFONET,UN-OAH-2,Female,Syrian Arab Republic,Asia-Pacific,Language,P-5,2016,186816,1411704,Non-roster,Yes,OAH,2017-01-01,2016-06-01,UNS:8453,LAN,208
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Kenya,Africa,Programme Management,P-5,2016,208038,1441347,Non-roster,No,Department,2017-09-01,2016-12-01,UNS:6291,PGM,290
+2022,PSJO,DEVNET,UN-OAH-2,Male,France,Western Europe and Others,Programme Management,P-3,2022,526083,1455381,Non-roster,No,OAH,2022-06-01,2022-03-01,UNS:8412,PGM,119
+2021,PSJO,POLNET,UN-PKO-1,Female,Cameroon,Africa,Political Affairs,P-3,2021,459492,1480467,Non-roster,No,Peacekeeping Mission,2021-11-01,2021-04-01,UNS:3926,POL,213
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Norway,Western Europe and Others,Sustainable Development,P-3,2017,269079,1486488,Non-roster,No,Department,2018-08-01,2017-12-01,UNS:6657,SUS,216
+2018,PSJO,MAGNET,UN-DEPT-3,Male,Tunisia,Africa,Finance,P-4,2017,263337,1504185,Roster,Yes,Department,2018-02-01,2017-11-01,UNS:3350,FIN,78
+2019,PSJO,LOGNET,UN-OAH-2,Male,Italy,Western Europe and Others,Engineering,P-4,2019,382215,1521951,Roster,Yes,OAH,2019-12-01,2019-12-01,UNS:3156,ENG,10
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Turkey,Western Europe and Others,Statistics,P-5,2018,294294,1551075,Non-roster,No,Department,2018-07-01,2018-07-01,UNS:7585,STT,17
+2019,RfR,INFONET,UN-PKO-1,Male,Cameroon,Africa,Public Information,P-3,2018,312537,1742013,Roster,Yes,Peacekeeping Mission,2019-01-01,2018-09-01,UNS:5560,PUB,126
+2021,RfR,LOGNET,UN-PKO-1,Male,Bangladesh,Asia-Pacific,Procurement,P-3,2020,441357,1781034,Roster,Yes,Peacekeeping Mission,2021-04-01,2020-12-01,UNS:5223,PRO,104
+2021,RfR,INFONET,UN-PKO-1,Male,Mali,Africa,Public Information,P-3,2020,431925,1786893,Roster,Yes,Peacekeeping Mission,2021-08-01,2020-11-01,UNS:5560,PUB,265
+2021,PSJO,POLNET,UN-OFFICE-5,Female,Turkey,Western Europe and Others,Political Affairs,P-5,2021,475494,1798317,Non-roster,No,Office,2021-12-01,2021-07-01,UNS:6285,POL,133
+2021,RfR,POLNET,UN-PKO-1,Male,Italy,Western Europe and Others,Security Institutions,P-3,2021,482649,1825548,Roster,Yes,Peacekeeping Mission,2021-10-01,2021-08-01,UNS:6096,SEI,60
+2019,PSJO,POLNET,UN-OFFICE-5,Female,Netherlands,Western Europe and Others,Political Affairs,P-4,2018,323121,1860753,Non-roster,No,Office,2019-06-01,2018-12-01,UNS:5121,POL,165
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Austria,Western Europe and Others,Programme Management,P-3,2019,329460,1883265,Non-roster,No,Department,2020-07-01,2019-02-01,UNS:8412,PGM,517
+2021,PSJO,MAGNET,UN-OAH-2,Male,Kenya,Africa,Finance,P-3,2021,477612,1900599,Non-roster,No,OAH,2021-10-01,2021-07-01,UNS:1012,FIN,98
+2018,PSJO,MAGNET,UN-OAH-2,Male,Germany,Western Europe and Others,Finance,P-4,2018,283221,1928463,Non-roster,No,OAH,2018-07-01,2018-03-01,UNS:3350,FIN,122
+2021,RfR,SAFETYNET,UN-PKO-1,Male,Lebanon,Asia-Pacific,Security,P-3,2020,429486,1940946,Roster,Yes,Peacekeeping Mission,2021-04-01,2020-11-01,UNS:4976,SEC,149
+2020,RfR,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Political Affairs,P-4,2020,407868,1971432,Roster,Yes,Peacekeeping Mission,2020-09-01,2020-05-01,UNS:6453,POL,116
+2017,PSJO,MAGNET,UN-DEPT-3,Female,Romania,Eastern European,Administration,P-4,2017,216471,2005737,Roster,Yes,Department,2017-05-01,2017-01-01,UNS:1103,ADM,108
+2019,PSJO,DEVNET,UN-PKO-1,Male,"Congo, The Democratic Republic",Africa,Programme Management,P-3,2018,257274,2050584,Non-roster,No,Peacekeeping Mission,2019-02-01,2018-02-01,UNS:8412,PGM,387
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Brazil,Latin American and Caribbean,Public Administration,P-5,2017,218268,2065995,Non-roster,No,Department,2017-09-01,2017-02-01,UNS:10100,PBA,235
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Morocco,Africa,Economic Affairs,P-5,2019,361527,2070258,Non-roster,No,Department,2020-07-01,2019-07-01,UNS:7577,ECO,355
+2019,PSJO,INFONET,UN-OAH-2,Male,Jordan,Asia-Pacific,Language,P-4,2019,342828,2097984,Non-roster,No,OAH,2019-08-01,2019-04-01,UNS:8226,LAN,149
+2017,RfR,DEVNET,UN-PKO-1,Male,United Kingdom,Western Europe and Others,Programme Management,P-4,2017,213042,2125746,Roster,Yes,Peacekeeping Mission,2017-04-01,2017-02-01,UNS:5283,PGM,77
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Malawi,Africa,Statistics,P-3,2017,217482,2163654,Non-roster,Yes,Department,2018-04-01,2017-01-01,UNS:6539,STT,448
+2017,PSJO,POLNET,UN-PKO-1,Male,United Kingdom,Western Europe and Others,Political Affairs,P-5,2015,145851,2229237,Non-roster,No,Peacekeeping Mission,2017-04-01,2015-09-01,UNS:7444,POL,563
+2022,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-5,2021,505896,2231520,Non-roster,No,OAH,2022-03-01,2021-11-01,UNS:8701,LAN,120
+2018,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2018,274842,2240724,Roster,Yes,OAH,2018-03-01,2018-01-01,UNS:8634,LAN,42
+2019,PSJO,DEVNET,UN-DEPT-3,Female,Japan,Asia-Pacific,Programme Management,P-4,2019,337563,2245869,Non-roster,No,Department,2019-08-01,2019-03-01,UNS:2951,PGM,151
+2022,PSJO,DEVNET,UN-DEPT-3,Female,Saudi Arabia,Asia-Pacific,Social Affairs,P-5,2022,541299,2260791,Roster,Yes,Department,2022-07-01,2022-05-01,UNS:6332,SOC,56
+2019,PSJO,LOGNET,UN-OAH-2,Male,Spain,Western Europe and Others,Procurement,P-3,2019,348081,2291184,Roster,Yes,OAH,2019-07-01,2019-05-01,UNS:5223,PRO,61
+2019,PSJO,DEVNET,UN-DEPT-3,Female,United Kingdom,Western Europe and Others,Programme Management,P-3,2019,358314,2326308,Roster,Yes,Department,2019-12-01,2019-07-01,UNS:8412,PGM,140
+2022,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-5,2021,473310,2334483,Non-roster,No,OAH,2022-01-01,2021-06-01,UNS:8703,LAN,219
+2017,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2016,205398,2334483,Non-roster,No,OAH,2017-03-01,2016-10-01,UNS:8634,LAN,162
+2017,PSJO,INFONET,UN-OAH-2,Male,United Kingdom,Western Europe and Others,Language,P-4,2017,244341,2342559,Roster,Yes,OAH,2017-08-01,2017-06-01,UNS:8632,LAN,52
+2020,PSJO,POLNET,UN-OFFICE-5,Female,Sudan,Africa,Political Affairs,P-4,2020,407016,2375874,Non-roster,No,Office,2020-10-01,2020-06-01,UNS:5121,POL,127
+2017,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Public Administration,P-4,2016,175776,2376603,Non-roster,No,Department,2017-07-01,2016-06-01,UNS:3618,PBA,390
+2022,PSJO,DEVNET,UN-OAH-2,Female,Italy,Western Europe and Others,Programme Management,P-3,2021,509577,2422221,Non-roster,No,OAH,2022-01-01,2021-12-01,UNS:8412,PGM,42
+2020,PSJO,POLNET,UN-PKO-1,Female,Bulgaria,Eastern European,Human Rights Affairs,P-3,2019,365082,2437767,Non-roster,Yes,Peacekeeping Mission,2020-08-01,2019-09-01,UNS:3873,HRI,338
+2020,PSJO,SAFETYNET,UN-PKO-1,Male,Burkina Faso,Africa,Security,P-3,2019,336783,2514957,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-04-01,UNS:5987,SEC,568
+2018,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2018,283284,2541765,Non-roster,No,OAH,2018-08-01,2018-03-01,UNS:8634,LAN,169
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Mexico,Latin American and Caribbean,Economic Affairs,P-3,2017,259590,2552940,Non-roster,No,Department,2018-05-01,2017-10-01,UNS:7283,ECO,203
+2017,PSJO,ITECNET,UN-OFFICE-5,Male,Tajikistan,Asia-Pacific,Information Management Systems and Technology,P-3,2017,219294,2565228,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:3981,IST,22
+2018,PSJO,ITECNET,UN-OAH-2,Male,Mexico,Latin American and Caribbean,Information Management Systems and Technology,P-3,2018,322647,2590545,Roster,Yes,OAH,2018-12-01,2018-11-01,UNS:4083,IST,24
+2021,PSJO,INFONET,UN-OAH-2,Female,Syrian Arab Republic,Asia-Pacific,Language,P-5,2021,456360,2598495,Roster,Yes,OAH,2021-06-01,2021-04-01,UNS:8691,LAN,75
+2022,RfR,POLNET,UN-PKO-1,Male,Tunisia,Africa,Security Institutions,P-5,2022,522990,2622948,Roster,Yes,Peacekeeping Mission,2022-03-01,2022-02-01,UNS:6329,SEI,43
+2018,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Statistics,P-3,2018,293889,2623155,Roster,Yes,Department,2018-07-01,2018-05-01,UNS:6539,STT,56
+2018,PSJO,DEVNET,UN-PKO-1,Male,Nigeria,Africa,Programme Management,P-5,2017,219168,2637513,Non-roster,No,Peacekeeping Mission,2018-01-01,2017-01-01,UNS:6291,PGM,356
+2022,RfR,POLNET,UN-PKO-1,Male,France,Western Europe and Others,Human Rights Affairs,P-3,2022,522981,2660061,Roster,Yes,Peacekeeping Mission,2022-05-01,2022-02-01,UNS:3873,HRI,99
+2019,PSJO,ITECNET,UN-OAH-2,Male,Belgium,Western Europe and Others,Information Management Systems and Technology,P-3,2019,343764,2716722,Roster,Yes,OAH,2019-05-01,2019-04-01,UNS:4083,IST,34
+2019,PSJO,ITECNET,UN-OAH-2,Male,Belgium,Western Europe and Others,Information Management Systems and Technology,P-3,2019,372948,2716722,Roster,Yes,OAH,2019-12-01,2019-10-01,UNS:4083,IST,66
+2017,RfR,LOGNET,UN-PKO-1,Male,Nepal,Asia-Pacific,Engineering,P-5,2017,234705,2740968,Roster,Yes,Peacekeeping Mission,2017-05-01,2017-05-01,UNS:2071,ENG,16
+2017,PSJO,ITECNET,UN-OAH-2,Female,Canada,Western Europe and Others,Information Management Systems and Technology,P-3,2017,216375,2756910,Roster,Yes,OAH,2017-11-01,2017-02-01,UNS:3981,IST,300
+2021,PSJO,SAFETYNET,UN-PKO-1,Male,United Kingdom,Western Europe and Others,Safety,P-3,2019,376404,2759985,Non-roster,No,Peacekeeping Mission,2021-11-01,2019-11-01,UNS:10324,SAF,742
+2017,PSJO,SAFETYNET,UN-OAH-2,Male,Belgium,Western Europe and Others,Security,P-3,2016,216084,2782314,Non-roster,No,OAH,2017-02-01,2016-12-01,UNS:5987,SEC,36
+2018,RfR,LOGNET,UN-PKO-1,Male,Serbia,Eastern European,Property and Asset Management,P-4,2018,295050,2804832,Roster,Yes,Peacekeeping Mission,2018-07-01,2018-05-01,UNS:5429,PAM,43
+2022,PSJO,INFONET,UN-OAH-2,Male,Spain,Western Europe and Others,Language,P-4,2022,521889,2813733,Non-roster,Yes,OAH,2022-07-01,2022-02-01,UNS:8634,LAN,155
+2018,PSJO,DEVNET,UN-OAH-2,Female,Spain,Western Europe and Others,Programme Management,P-3,2017,262197,2826384,Non-roster,No,OAH,2018-03-01,2017-11-01,UNS:8412,PGM,117
+2019,RfR,POLNET,UN-PKO-1,Male,Rwanda,Africa,Political Affairs,P-4,2019,353916,2862879,Roster,Yes,Peacekeeping Mission,2019-08-01,2019-06-01,UNS:3927,POL,67
+2022,RfR,POLNET,UN-PKO-1,Male,Rwanda,Africa,Political Affairs,P-5,2022,547083,2862879,Roster,Yes,Peacekeeping Mission,2022-07-01,2022-05-01,UNS:6204,POL,42
+2018,PSJO,DEVNET,UN-PKO-1,Female,Germany,Western Europe and Others,Programme Management,P-5,2017,219180,2864916,Non-roster,No,Peacekeeping Mission,2018-02-01,2017-01-01,UNS:6147,PGM,395
+2018,RfR,POLNET,UN-PKO-1,Female,Germany,Western Europe and Others,Rule of Law,P-3,2018,313767,2951004,Roster,Yes,Peacekeeping Mission,2018-11-01,2018-10-01,UNS:4297,ROL,50
+2019,PSJO,MAGNET,UN-PKO-1,Male,Haiti,Latin American and Caribbean,Administration,P-3,2019,337263,3008526,Non-roster,No,Peacekeeping Mission,2019-11-01,2019-03-01,UNS:2506,ADM,255
+2020,RfR,MAGNET,UN-PKO-1,Male,Haiti,Latin American and Caribbean,Administration,P-4,2020,413673,3008526,Roster,Yes,Peacekeeping Mission,2020-09-01,2020-07-01,UNS:2507,ADM,62
+2017,RfR,LOGNET,UN-PKO-1,Female,Uganda,Africa,Procurement,P-3,2016,209871,3022494,Roster,Yes,Peacekeeping Mission,2017-02-01,2016-11-01,UNS:5223,PRO,76
+2018,PSJO,DEVNET,UN-DEPT-3,Male,Lebanon,Asia-Pacific,Statistics,P-3,2017,266058,3023577,Roster,Yes,Department,2018-02-01,2017-12-01,UNS:6539,STT,60
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Ireland,Western Europe and Others,Public Administration,P-4,2016,175776,3025374,Non-roster,No,Department,2017-10-01,2016-06-01,UNS:3618,PBA,493
+2017,PSJO,DEVNET,UN-DEPT-3,Female,El Salvador,Latin American and Caribbean,Programme Management,P-3,2016,200556,3041457,Roster,Yes,Department,2017-06-01,2016-09-01,UNS:8412,PGM,266
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Belgium,Western Europe and Others,Sustainable Development,P-4,2019,369885,3064665,Non-roster,Yes,Department,2020-07-01,2019-09-01,UNS:6658,SUS,310
+2020,RfR,POLNET,UN-PKO-1,Male,Burkina Faso,Africa,Rule of Law,P-4,2020,429807,3096114,Roster,Yes,Peacekeeping Mission,2020-12-01,2020-11-01,UNS:2628,ROL,51
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Belgium,Western Europe and Others,Economic Affairs,P-4,2017,218307,3099099,Roster,Yes,Department,2017-10-01,2017-02-01,UNS:7284,ECO,245
+2017,RfR,MAGNET,UN-PKO-1,Male,United States of America,Western Europe and Others,Human Resources,P-4,2017,221649,3099528,Roster,Yes,Peacekeeping Mission,2017-02-01,2017-01-01,UNS:3822,HRE,23
+2021,PSJO,POLNET,UN-PKO-1,Female,Switzerland,Western Europe and Others,Human Rights Affairs,P-4,2019,376188,3100158,Non-roster,No,Peacekeeping Mission,2021-08-01,2019-12-01,UNS:5463,HRI,627
+2022,RfR,POLNET,UN-SPM-4,Male,Cote D'Ivoire,Africa,Political Affairs,P-4,2022,533574,3103314,Roster,Yes,Special Political Mission,2022-08-01,2022-03-01,UNS:5121,POL,154
+2017,PSJO,MAGNET,UN-PKO-1,Male,Romania,Eastern European,Audit,P-3,2016,201192,3219252,Non-roster,No,Peacekeeping Mission,2017-01-01,2016-09-01,UNS:1725,AUD,111
+2018,PSJO,INFONET,UN-OAH-2,Female,Ireland,Western Europe and Others,Conference Services,P-4,2017,247608,3245664,Non-roster,No,OAH,2018-02-01,2017-08-01,UNS:2510,CON,182
+2018,PSJO,INFONET,UN-OAH-2,Male,China,Asia-Pacific,Language,P-4,2018,279003,3277422,Roster,Yes,OAH,2018-03-01,2018-02-01,UNS:8631,LAN,21
+2018,RfR,INFONET,UN-PKO-1,Male,Cabo Verde,Africa,Public Information,P-5,2018,293070,3313809,Roster,Yes,Peacekeeping Mission,2018-06-01,2018-05-01,UNS:6500,PUB,34
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Economic Affairs,P-3,2017,218289,3373164,Roster,Yes,Department,2017-04-01,2017-02-01,UNS:7283,ECO,64
+2021,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Economic Affairs,P-5,2020,401868,3393174,Non-roster,No,Department,2021-01-01,2020-04-01,UNS:7577,ECO,302
+2017,PSJO,POLNET,UN-PKO-1,Female,Luxembourg,Western Europe and Others,Rule of Law,P-3,2016,162897,3407178,Non-roster,No,Peacekeeping Mission,2017-03-01,2016-01-01,UNS:4297,ROL,419
+2022,PSJO,INFONET,UN-OAH-2,Female,Lebanon,Asia-Pacific,Language,P-4,2022,533394,3429951,Non-roster,No,OAH,2022-08-01,2022-04-01,UNS:8226,LAN,137
+2017,PSJO,INFONET,UN-OAH-2,Male,Russian Federation,Eastern European,Language,P-5,2016,208575,3533115,Non-roster,Yes,OAH,2017-07-01,2016-11-01,UNS:8695,LAN,246
+2019,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Economic Affairs,P-4,2019,348429,3559431,Roster,Yes,Department,2019-10-01,2019-05-01,UNS:7284,ECO,147
+2017,PSJO,INFONET,UN-OAH-2,Male,United Kingdom,Western Europe and Others,Language,P-4,2017,232728,3559533,Roster,Yes,OAH,2017-05-01,2017-04-01,UNS:8230,LAN,27
+2017,PSJO,POLNET,UN-PKO-1,Male,India,Asia-Pacific,Political Affairs,P-4,2015,145194,3585066,Non-roster,No,Peacekeeping Mission,2017-03-01,2015-09-01,UNS:5121,POL,535
+2019,PSJO,LOGNET,UN-OAH-2,Male,Nepal,Asia-Pacific,Procurement,P-3,2019,341517,3634659,Roster,Yes,OAH,2019-04-01,2019-03-01,UNS:2556,PRO,17
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Belgium,Western Europe and Others,Public Administration,P-5,2017,254976,3685704,Non-roster,No,Department,2018-05-01,2017-09-01,UNS:10100,PBA,230
+2019,PSJO,LOGNET,UN-PKO-1,Male,Lebanon,Asia-Pacific,Property and Asset Management,P-4,2018,306552,3713448,Non-roster,No,Peacekeeping Mission,2019-04-01,2018-09-01,UNS:2537,PAM,191
+2021,RfR,POLNET,UN-PKO-1,Male,Haiti,Latin American and Caribbean,Civil Affairs,P-4,2021,492843,3715119,Roster,Yes,Peacekeeping Mission,2021-12-01,2021-10-01,UNS:2339,CIV,54
+2019,RfR,POLNET,UN-PKO-1,Male,Chad,Africa,Political Affairs,P-3,2018,323955,3715875,Roster,Yes,Peacekeeping Mission,2019-04-01,2018-12-01,UNS:5119,POL,135
+2017,PSJO,POLNET,UN-OFFICE-5,Female,Australia,Western Europe and Others,Political Affairs,P-3,2017,218994,3729945,Roster,Yes,Office,2017-02-01,2017-01-01,UNS:5119,POL,17
+2021,PSJO,INFONET,UN-OAH-2,Male,Egypt,Africa,Language,P-4,2020,390411,3751869,Non-roster,No,OAH,2021-03-01,2020-01-01,UNS:8053,LAN,434
+2018,PSJO,DEVNET,UN-DEPT-3,Male,New Zealand,Western Europe and Others,Statistics,P-3,2017,261120,3757590,Roster,Yes,Department,2018-01-01,2017-10-01,UNS:6539,STT,95
+2018,RfR,INFONET,UN-PKO-1,Male,Burundi,Africa,Public Information,P-3,2017,243519,3758493,Roster,Yes,Peacekeeping Mission,2018-01-01,2017-06-01,UNS:5560,PUB,195
+2017,PSJO,INFONET,UN-OAH-2,Female,Egypt,Africa,Language,P-4,2016,213756,3761472,Roster,Yes,OAH,2017-01-01,2016-12-01,UNS:8226,LAN,41
+2018,RfR,POLNET,UN-PKO-1,Female,United States of America,Western Europe and Others,Civil Affairs,P-4,2018,285957,3792255,Roster,Yes,Peacekeeping Mission,2018-04-01,2018-04-01,UNS:2339,CIV,22
+2020,PSJO,DEVNET,UN-DEPT-3,Female,Canada,Western Europe and Others,Sustainable Development,P-5,2019,375648,3796782,Non-roster,No,Department,2020-06-01,2019-10-01,UNS:6345,SUS,223
+2018,RfR,MAGNET,UN-PKO-1,Female,Kenya,Africa,Audit,P-3,2017,264216,3799551,Roster,Yes,Peacekeeping Mission,2018-04-01,2017-11-01,UNS:1725,AUD,158
+2017,PSJO,POLNET,UN-PKO-1,Male,Burkina Faso,Africa,Rule of Law,P-3,2016,162897,3821067,Non-roster,No,Peacekeeping Mission,2017-02-01,2016-01-01,UNS:4297,ROL,390
+2019,PSJO,LOGNET,UN-OAH-2,Male,United Kingdom,Western Europe and Others,Logistics and Supply Chain,P-4,2019,345555,3830892,Roster,Yes,OAH,2019-06-01,2019-05-01,UNS:10167,LOG,22
+2022,PSJO,LOGNET,UN-PKO-1,Male,Togo,Africa,Logistics and Supply Chain,P-4,2021,460134,3839019,Non-roster,No,Peacekeeping Mission,2022-01-01,2021-04-01,UNS:4539,LOG,285
+2020,PSJO,POLNET,UN-PKO-1,Female,Germany,Western Europe and Others,Rule of Law,P-3,2019,371925,3877389,Non-roster,No,Peacekeeping Mission,2020-09-01,2019-10-01,UNS:4297,ROL,351
+2018,PSJO,MAGNET,UN-OAH-2,Male,Poland,Eastern European,Finance,P-3,2018,291492,3886869,Roster,Yes,OAH,2018-06-01,2018-06-01,UNS:1012,FIN,7
+2022,PSJO,POLNET,UN-OFFICE-5,Male,Zimbabwe,Africa,Political Affairs,P-3,2022,513324,3895401,Non-roster,No,Office,2022-06-01,2022-01-01,UNS:5119,POL,167
+2019,RfR,POLNET,UN-PKO-1,Male,Burundi,Africa,Human Rights Affairs,P-3,2018,319350,3902265,Roster,Yes,Peacekeeping Mission,2019-03-01,2018-11-01,UNS:3873,HRI,127
+2018,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2018,283284,3945867,Non-roster,No,OAH,2018-08-01,2018-03-01,UNS:8634,LAN,169
+2021,PSJO,POLNET,UN-PKO-1,Female,Italy,Western Europe and Others,Security Institutions,P-5,2020,432732,3964629,Non-roster,No,Peacekeeping Mission,2021-06-01,2020-12-01,UNS:6155,SEI,209
+2019,PSJO,LOGNET,UN-OAH-2,Male,France,Western Europe and Others,Engineering,P-4,2019,345756,3975435,Roster,Yes,OAH,2019-05-01,2019-04-01,UNS:3156,ENG,23
+2022,RfR,POLNET,UN-PKO-1,Male,Serbia,Eastern European,Security Institutions,P-4,2022,521961,3976026,Roster,Yes,Peacekeeping Mission,2022-05-01,2022-02-01,UNS:2906,SEI,86
+2022,PSJO,LOGNET,UN-OAH-2,Female,Uganda,Africa,Procurement,P-3,2022,504525,3978234,Roster,Yes,OAH,2022-04-01,2022-01-01,UNS:5223,PRO,84
+2019,PSJO,POLNET,UN-OFFICE-5,Female,New Zealand,Western Europe and Others,Political Affairs,P-3,2019,333858,3984789,Roster,Yes,Office,2019-04-01,2019-03-01,UNS:5119,POL,42
+2019,PSJO,MAGNET,UN-OAH-2,Female,Japan,Asia-Pacific,Finance,P-4,2019,346260,4022562,Roster,Yes,OAH,2019-06-01,2019-05-01,UNS:1014,FIN,23
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Statistics,P-3,2018,283347,4022973,Roster,Yes,Department,2018-05-01,2018-04-01,UNS:6539,STT,27
+2017,PSJO,POLNET,UN-PKO-1,Male,Cameroon,Africa,Human Rights Affairs,P-3,2015,140862,4072569,Non-roster,No,Peacekeeping Mission,2017-01-01,2015-08-01,UNS:5461,HRI,515
+2022,PSJO,INFONET,UN-OAH-2,Female,United States of America,Western Europe and Others,Language,P-5,2022,519681,4074756,Non-roster,No,OAH,2022-07-01,2022-01-01,UNS:8702,LAN,158
+2020,PSJO,POLNET,UN-PKO-1,Female,Australia,Western Europe and Others,Security Institutions,P-4,2018,315732,4093380,Non-roster,No,Peacekeeping Mission,2020-06-01,2018-10-01,UNS:6097,SEI,612
+2022,RfR,LOGNET,UN-PKO-1,Male,Romania,Eastern European,Transportation,P-3,2021,488199,4102074,Roster,Yes,Peacekeeping Mission,2022-08-01,2021-10-01,UNS:1741,TRA,296
+2019,PSJO,MAGNET,UN-OAH-2,Male,Italy,Western Europe and Others,Administration,P-5,2019,342453,4138125,Non-roster,No,OAH,2019-08-01,2019-04-01,UNS:10412,ADM,105
+2017,PSJO,MAGNET,UN-OAH-2,Female,Mongolia,Asia-Pacific,Finance,P-3,2016,205965,4149081,Non-roster,No,OAH,2017-02-01,2016-11-01,UNS:1012,FIN,103
+2018,RfR,POLNET,UN-SPM-4,Female,Germany,Western Europe and Others,Political Affairs,P-4,2018,299085,4196379,Roster,Yes,Special Political Mission,2018-08-01,2018-07-01,UNS:5121,POL,52
+2021,PSJO,INFONET,UN-OAH-2,Female,China,Asia-Pacific,Language,P-4,2021,473418,4203276,Non-roster,No,OAH,2021-12-01,2021-06-01,UNS:8631,LAN,174
+2020,PSJO,MAGNET,UN-OAH-2,Female,China,Asia-Pacific,Finance,P-3,2019,382032,4234107,Non-roster,Yes,OAH,2020-07-01,2019-12-01,UNS:1012,FIN,196
+2017,PSJO,INFONET,UN-OAH-2,Male,China,Asia-Pacific,Language,P-4,2016,200463,4241700,Non-roster,No,OAH,2017-03-01,2016-09-01,UNS:8631,LAN,185
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Spain,Western Europe and Others,Social Affairs,P-3,2018,314784,4269945,Roster,Yes,Department,2018-12-01,2018-11-01,UNS:6384,SOC,20
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Spain,Western Europe and Others,Programme Management,P-5,2016,212256,4295229,Non-roster,No,Department,2018-01-01,2016-12-01,UNS:6291,PGM,398
+2017,PSJO,POLNET,UN-PKO-1,Male,Togo,Africa,Rule of Law,P-3,2016,162897,4322427,Non-roster,No,Peacekeeping Mission,2017-01-01,2016-01-01,UNS:4297,ROL,374
+2019,RfR,POLNET,UN-SPM-4,Female,Guinea,Africa,Political Affairs,P-5,2019,341250,4349088,Roster,Yes,Special Political Mission,2019-04-01,2019-03-01,UNS:6180,POL,24
+2019,RfR,MAGNET,UN-PKO-1,Female,United States of America,Western Europe and Others,Finance,P-4,2019,363063,4353420,Roster,Yes,Peacekeeping Mission,2019-09-01,2019-08-01,UNS:3350,FIN,49
+2021,RfR,MAGNET,UN-PKO-1,Female,United States of America,Western Europe and Others,Finance,P-5,2021,456384,4353420,Roster,Yes,Peacekeeping Mission,2021-06-01,2021-04-01,UNS:10243,FIN,61
+2018,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2018,281580,4427925,Non-roster,No,OAH,2018-07-01,2018-03-01,UNS:8060,LAN,147
+2021,RfR,POLNET,UN-PKO-1,Male,Burkina Faso,Africa,Security Institutions,P-3,2021,459498,4513653,Roster,Yes,Peacekeeping Mission,2021-06-01,2021-04-01,UNS:2898,SEI,48
+2021,PSJO,POLNET,UN-PKO-1,Female,Canada,Western Europe and Others,Political Affairs,P-5,2019,351921,4546776,Non-roster,No,Peacekeeping Mission,2021-01-01,2019-06-01,UNS:6180,POL,600
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Public Administration,P-5,2017,234537,4549932,Non-roster,No,Department,2017-08-01,2017-05-01,UNS:10100,PBA,120
+2020,RfR,POLNET,UN-PKO-1,Female,Austria,Western Europe and Others,Human Rights Affairs,P-5,2019,383811,4595607,Roster,Yes,Peacekeeping Mission,2020-02-01,2019-12-01,UNS:10422,HRI,63
+2017,PSJO,MAGNET,UN-OAH-2,Female,Tajikistan,Asia-Pacific,Human Resources,P-4,2017,259506,4650393,Roster,Yes,OAH,2017-11-01,2017-10-01,UNS:3822,HRE,35
+2022,PSJO,POLNET,UN-OFFICE-5,Female,Kenya,Africa,Political Affairs,P-3,2022,540165,4727448,Non-roster,No,Office,2022-08-01,2022-05-01,UNS:5119,POL,106
+2017,PSJO,INFONET,UN-OAH-2,Female,Ireland,Western Europe and Others,Language,P-4,2017,253149,4752630,Roster,Yes,OAH,2017-10-01,2017-08-01,UNS:8230,LAN,50
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Canada,Western Europe and Others,Economic Affairs,P-3,2016,187581,4820325,Non-roster,No,Department,2017-01-01,2016-06-01,UNS:7283,ECO,211
+2018,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Population Affairs,P-5,2017,269424,4862409,Non-roster,No,Department,2018-07-01,2017-12-01,UNS:7579,POP,201
+2017,PSJO,SAFETYNET,UN-OAH-2,Male,Ireland,Western Europe and Others,Security,P-4,2016,199074,4863870,Non-roster,No,OAH,2017-03-01,2016-10-01,UNS:2744,SEC,164
+2021,RfR,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Political Affairs,P-3,2021,442713,4876365,Roster,Yes,Peacekeeping Mission,2021-03-01,2021-01-01,UNS:5119,POL,58
+2022,RfR,POLNET,UN-PKO-1,Female,Italy,Western Europe and Others,Rule of Law,P-3,2021,485964,4911945,Roster,Yes,Peacekeeping Mission,2022-01-01,2021-11-01,UNS:4297,ROL,59
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Social Affairs,P-3,2017,268518,4949682,Mixed,Yes,Department,2018-02-01,2017-12-01,UNS:6384,SOC,57
+2020,PSJO,DEVNET,UN-DEPT-3,Female,Fiji,Asia-Pacific,Economic Affairs,P-5,2019,339423,4965048,Non-roster,No,Department,2020-01-01,2019-03-01,UNS:7577,ECO,303
+2019,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-4,2019,330492,5003316,Roster,Yes,OAH,2019-02-01,2019-01-01,UNS:8057,LAN,19
+2017,PSJO,LOGNET,UN-OAH-2,Female,Belgium,Western Europe and Others,Engineering,P-4,2016,189654,5003622,Non-roster,No,OAH,2017-02-01,2016-07-01,UNS:7397,ENG,187
+2021,PSJO,INFONET,UN-OAH-2,Female,Morocco,Africa,Language,P-5,2020,391647,5026206,Non-roster,No,OAH,2021-04-01,2020-02-01,UNS:8698,LAN,448
+2017,PSJO,INFONET,UN-OAH-2,Female,Morocco,Africa,Language,P-4,2016,207318,5026206,Non-roster,No,OAH,2017-07-01,2016-11-01,UNS:8630,LAN,236
+2022,PSJO,INFONET,UN-OAH-2,Male,Spain,Western Europe and Others,Language,P-4,2022,521889,5037894,Non-roster,Yes,OAH,2022-07-01,2022-02-01,UNS:8634,LAN,155
+2022,PSJO,POLNET,UN-OFFICE-5,Female,"Korea, Republic of",Asia-Pacific,Political Affairs,P-3,2022,516285,5043873,Non-roster,Yes,Office,2022-06-01,2022-01-01,UNS:5119,POL,157
+2021,PSJO,ITECNET,UN-OAH-2,Male,Congo,Africa,Information Management Systems and Technology,P-3,2020,402735,5082093,Non-roster,No,OAH,2021-04-01,2020-04-01,UNS:4083,IST,370
+2021,PSJO,MAGNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Administration,P-3,2021,468756,5103825,Roster,Yes,OAH,2021-09-01,2021-06-01,UNS:1102,ADM,113
+2017,PSJO,POLNET,UN-PKO-1,Female,Senegal,Africa,Political Affairs,P-4,2015,145194,5105454,Non-roster,No,Peacekeeping Mission,2017-07-01,2015-09-01,UNS:5121,POL,652
+2018,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-4,2017,261015,5135397,Non-roster,No,OAH,2018-03-01,2017-10-01,UNS:7548,LAN,148
+2022,PSJO,INFONET,UN-OAH-2,Male,Belgium,Western Europe and Others,Language,P-4,2022,520122,5152188,Roster,Yes,OAH,2022-04-01,2022-01-01,UNS:8232,LAN,71
+2018,PSJO,MAGNET,UN-OAH-2,Female,Brazil,Latin American and Caribbean,Human Resources,P-3,2018,316215,5185863,Roster,Yes,OAH,2018-10-01,2018-10-01,UNS:3819,HRE,11
+2019,PSJO,LEGALNET,UN-OAH-2,Male,Canada,Western Europe and Others,Legal Affairs,P-3,2019,362559,5189097,Roster,Yes,OAH,2019-08-01,2019-08-01,UNS:4426,LEG,7
+2022,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2022,521889,5207448,Non-roster,Yes,OAH,2022-07-01,2022-02-01,UNS:8634,LAN,155
+2021,PSJO,MAGNET,UN-PKO-1,Male,Burkina Faso,Africa,Human Resources,P-3,2021,470661,5214819,Non-roster,No,Peacekeeping Mission,2021-12-01,2021-06-01,UNS:8728,HRE,172
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Italy,Western Europe and Others,Economic Affairs,P-5,2016,210612,5218728,Non-roster,No,Department,2017-05-01,2016-12-01,UNS:7605,ECO,137
+2021,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2021,458100,5281779,Non-roster,No,OAH,2021-10-01,2021-04-01,UNS:8633,LAN,193
+2021,PSJO,INFONET,UN-OAH-2,Female,Belgium,Western Europe and Others,Language,P-4,2021,456345,5283177,Non-roster,No,OAH,2021-07-01,2021-04-01,UNS:8232,LAN,104
+2019,PSJO,DEVNET,UN-DEPT-3,Female,Finland,Western Europe and Others,Sustainable Development,P-4,2018,321387,5361408,Non-roster,No,Department,2019-08-01,2018-11-01,UNS:6658,SUS,249
+2021,PSJO,DEVNET,UN-DEPT-3,Female,Finland,Western Europe and Others,Sustainable Development,P-4,2021,501732,5361408,Roster,Yes,Department,2021-12-01,2021-11-01,UNS:6658,SUS,21
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Finland,Western Europe and Others,Sustainable Development,P-3,2017,234006,5361408,Non-roster,No,Department,2018-01-01,2017-05-01,UNS:6657,SUS,238
+2022,RfR,POLNET,UN-PKO-1,Female,Cameroon,Africa,Rule of Law,P-4,2022,523341,5368341,Roster,Yes,Peacekeeping Mission,2022-03-01,2022-02-01,UNS:4298,ROL,42
+2019,PSJO,MAGNET,UN-OAH-2,Female,India,Asia-Pacific,Finance,P-4,2018,320847,5451966,Roster,Yes,OAH,2019-01-01,2018-12-01,UNS:3350,FIN,30
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Switzerland,Western Europe and Others,Statistics,P-5,2021,461814,5472279,Roster,Yes,Department,2021-11-01,2021-04-01,UNS:7585,STT,201
+2022,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2022,555099,5496483,Roster,Yes,OAH,2022-07-01,2022-06-01,UNS:8236,LAN,11
+2021,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Public Administration,P-5,2021,469149,5530914,Non-roster,No,Department,2021-12-01,2021-06-01,UNS:10100,PBA,163
+2018,PSJO,DEVNET,UN-DEPT-3,Male,United Kingdom,Western Europe and Others,Social Affairs,P-3,2018,284913,5540835,Non-roster,No,Department,2018-08-01,2018-04-01,UNS:6384,SOC,133
+2017,PSJO,INFONET,UN-OAH-2,Male,Egypt,Africa,Language,P-4,2016,213756,5551425,Roster,Yes,OAH,2017-01-01,2016-12-01,UNS:8226,LAN,41
+2019,PSJO,LOGNET,UN-OAH-2,Female,Turkey,Western Europe and Others,Engineering,P-4,2018,312261,5577030,Non-roster,No,OAH,2019-06-01,2018-10-01,UNS:7397,ENG,260
+2017,PSJO,ITECNET,UN-OAH-2,Male,Greece,Western Europe and Others,Information Management Systems and Technology,P-3,2017,220401,5596275,Non-roster,No,OAH,2017-09-01,2017-02-01,UNS:4083,IST,224
+2019,RfR,LOGNET,UN-PKO-1,Female,Germany,Western Europe and Others,Logistics and Supply Chain,P-3,2019,346644,5654184,Roster,Yes,Peacekeeping Mission,2019-08-01,2019-06-01,UNS:4536,LOG,42
+2022,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-4,2021,499083,5654844,Non-roster,No,OAH,2022-02-01,2021-10-01,UNS:8234,LAN,116
+2017,PSJO,POLNET,UN-OFFICE-5,Male,Egypt,Africa,Political Affairs,P-4,2017,218847,5698539,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:5121,POL,29
+2019,PSJO,INFONET,UN-OAH-2,Male,United Kingdom,Western Europe and Others,Language,P-4,2019,381822,5738484,Roster,Yes,OAH,2019-12-01,2019-11-01,UNS:8230,LAN,23
+2019,PSJO,DEVNET,UN-DEPT-3,Female,El Salvador,Latin American and Caribbean,Programme Management,P-3,2019,368916,5740482,Roster,Yes,Department,2019-11-01,2019-09-01,UNS:8412,PGM,46
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Zimbabwe,Africa,Economic Affairs,P-5,2019,356154,5793042,Non-roster,No,Department,2020-01-01,2019-07-01,UNS:7577,ECO,204
+2022,PSJO,DEVNET,UN-DEPT-3,Male,New Zealand,Western Europe and Others,Population Affairs,P-3,2021,456507,5801355,Non-roster,No,Department,2022-03-01,2021-04-01,UNS:5126,POP,316
+2018,PSJO,LOGNET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Procurement,P-3,2018,278379,5847360,Roster,Yes,OAH,2018-07-01,2018-02-01,UNS:5223,PRO,153
+2022,RfR,POLNET,UN-PKO-1,Female,Poland,Eastern European,Human Rights Affairs,P-3,2022,533718,5855289,Roster,Yes,Peacekeeping Mission,2022-08-01,2022-04-01,UNS:3873,HRI,136
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Norway,Western Europe and Others,Economic Affairs,P-5,2022,516537,5874351,Roster,Yes,Department,2022-06-01,2022-02-01,UNS:7577,ECO,122
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Norway,Western Europe and Others,Economic Affairs,P-5,2016,178611,5874351,Non-roster,No,Department,2017-02-01,2016-06-01,UNS:7577,ECO,253
+2017,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-4,2017,253149,5880498,Roster,Yes,OAH,2017-10-01,2017-08-01,UNS:8230,LAN,50
+2018,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Sustainable Development,P-5,2017,256962,5888112,Non-roster,No,Department,2018-05-01,2017-10-01,UNS:6345,SUS,234
+2017,PSJO,LOGNET,UN-OAH-2,Female,Cameroon,Africa,Procurement,P-3,2017,230862,5894946,Non-roster,No,OAH,2017-11-01,2017-03-01,UNS:5223,PRO,245
+2022,RfR,POLNET,UN-PKO-1,Female,Burundi,Africa,Political Affairs,P-3,2022,514821,5919672,Roster,Yes,Peacekeeping Mission,2022-03-01,2022-01-01,UNS:5119,POL,70
+2017,PSJO,INFONET,UN-OAH-2,Male,France,Western Europe and Others,Language,P-4,2017,234108,5936511,Non-roster,No,OAH,2017-09-01,2017-05-01,UNS:8633,LAN,145
+2019,RfR,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Human Rights Affairs,P-3,2018,319350,5981547,Roster,Yes,Peacekeeping Mission,2019-03-01,2018-11-01,UNS:3873,HRI,127
+2022,PSJO,MAGNET,UN-OAH-2,Male,France,Western Europe and Others,Finance,P-4,2022,536025,5989677,Roster,Yes,OAH,2022-05-01,2022-04-01,UNS:3436,FIN,34
+2017,PSJO,MAGNET,UN-OAH-2,Female,Spain,Western Europe and Others,Human Resources,P-3,2017,240036,6032220,Roster,Yes,OAH,2017-06-01,2017-06-01,UNS:6906,HRE,8
+2018,RfR,POLNET,UN-PKO-1,Male,Italy,Western Europe and Others,Political Affairs,P-4,2018,314364,6172392,Roster,Yes,Peacekeeping Mission,2018-11-01,2018-10-01,UNS:3927,POL,57
+2018,RfR,POLNET,UN-PKO-1,Male,United States of America,Western Europe and Others,Political Affairs,P-3,2018,276753,6183228,Roster,Yes,Peacekeeping Mission,2018-02-01,2018-01-01,UNS:8863,POL,24
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Netherlands,Western Europe and Others,Statistics,P-5,2016,175107,6350205,Non-roster,No,Department,2017-01-01,2016-04-01,UNS:6341,STT,291
+2017,PSJO,MAGNET,UN-OFFICE-5,Male,Australia,Western Europe and Others,Investigation,P-4,2017,219075,6363201,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:4269,ING,24
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Australia,Western Europe and Others,Statistics,P-5,2017,223248,6368400,Non-roster,No,Department,2017-08-01,2017-02-01,UNS:7585,STT,180
+2020,RfR,POLNET,UN-PKO-1,Female,"Congo, The Democratic Republic",Africa,Civil Affairs,P-3,2020,399120,6400827,Roster,Yes,Peacekeeping Mission,2020-05-01,2020-03-01,UNS:2337,CIV,51
+2021,PSJO,MAGNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Administration,P-5,2020,422817,6403953,Mixed,No,OAH,2021-07-01,2020-09-01,UNS:6112,ADM,314
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Poland,Eastern European,Statistics,P-3,2016,213675,6427083,Non-roster,No,Department,2017-08-01,2016-12-01,UNS:6539,STT,222
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Slovenia,Eastern European,Statistics,P-3,2017,221745,6484662,Roster,Yes,Department,2017-05-01,2017-03-01,UNS:6539,STT,45
+2019,PSJO,POLNET,UN-PKO-1,Female,Switzerland,Western Europe and Others,Political Affairs,P-4,2018,315900,6522663,Non-roster,No,Peacekeeping Mission,2019-04-01,2018-10-01,UNS:1756,POL,196
+2017,PSJO,SCINET,UN-OFFICE-5,Female,Tunisia,Africa,Medical,P-4,2017,219066,6604245,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:4655,MED,23
+2021,PSJO,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Rule of Law,P-5,2021,455715,6615510,Non-roster,No,Peacekeeping Mission,2021-07-01,2021-03-01,UNS:6227,ROL,112
+2020,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Sustainable Development,P-3,2020,412143,6615744,Non-roster,No,Department,2020-12-01,2020-06-01,UNS:6657,SUS,176
+2017,PSJO,ITECNET,UN-DEPT-3,Male,Spain,Western Europe and Others,Information Management Systems and Technology,P-3,2017,217491,6653454,Non-roster,No,Department,2017-10-01,2017-01-01,UNS:4083,IST,287
+2017,PSJO,INFONET,UN-OAH-2,Male,Switzerland,Western Europe and Others,Public Information,P-3,2016,198630,6734532,Non-roster,No,OAH,2017-07-01,2016-10-01,UNS:5129,PUB,262
+2017,PSJO,POLNET,UN-PKO-1,Female,Belgium,Western Europe and Others,Human Rights Affairs,P-3,2015,140862,6742797,Non-roster,No,Peacekeeping Mission,2017-01-01,2015-08-01,UNS:5461,HRI,515
+2019,RfR,POLNET,UN-PKO-1,Female,"Congo, The Democratic Republic",Africa,Rule of Law,P-3,2019,349734,6750729,Roster,Yes,Peacekeeping Mission,2019-08-01,2019-06-01,UNS:4297,ROL,41
+2022,PSJO,POLNET,UN-PKO-1,Female,"Congo, The Democratic Republic",Africa,Human Rights Affairs,P-3,2021,454323,6753774,Non-roster,No,Peacekeeping Mission,2022-01-01,2021-03-01,UNS:5461,HRI,312
+2021,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2021,457617,6808842,Roster,Yes,OAH,2021-07-01,2021-04-01,UNS:8633,LAN,86
+2020,PSJO,INFONET,UN-OAH-2,Female,Benin,Africa,Conference Services,P-5,2020,390126,6944502,Roster,Yes,OAH,2020-03-01,2020-02-01,UNS:7471,CON,26
+2021,PSJO,POLNET,UN-PKO-1,Male,Burundi,Africa,Political Affairs,P-3,2019,371961,6947838,Non-roster,No,Peacekeeping Mission,2021-01-01,2019-10-01,UNS:5119,POL,480
+2020,RfR,POLNET,UN-PKO-1,Male,Australia,Western Europe and Others,Political Affairs,P-3,2020,397128,6963741,Roster,Yes,Peacekeeping Mission,2020-09-01,2020-03-01,UNS:8863,POL,177
+2019,PSJO,INFONET,UN-OAH-2,Male,United States of America,Western Europe and Others,Language,P-4,2019,343065,7000377,Non-roster,No,OAH,2019-10-01,2019-03-01,UNS:8632,LAN,196
+2021,PSJO,LOGNET,UN-OAH-2,Female,China,Asia-Pacific,Procurement,P-3,2019,376389,7029141,Non-roster,No,OAH,2021-01-01,2019-11-01,UNS:5223,PRO,414
+2019,PSJO,DEVNET,UN-OAH-2,Male,Germany,Western Europe and Others,Programme Management,P-3,2018,294726,7067115,Non-roster,No,OAH,2019-03-01,2018-06-01,UNS:8412,PGM,278
+2021,PSJO,SCINET,UN-OAH-2,Female,Netherlands,Western Europe and Others,Medical,P-4,2021,486585,7078572,Roster,Yes,OAH,2021-12-01,2021-08-01,UNS:4655,MED,125
+2019,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Sustainable Development,P-3,2019,380064,7104027,Roster,Yes,Department,2019-12-01,2019-11-01,UNS:6657,SUS,18
+2021,PSJO,POLNET,UN-SPM-4,Female,Germany,Western Europe and Others,Political Affairs,P-4,2021,447219,7249794,Non-roster,No,Special Political Mission,2021-10-01,2021-02-01,UNS:6453,POL,243
+2018,RfR,POLNET,UN-SPM-4,Female,Germany,Western Europe and Others,Political Affairs,P-3,2018,297918,7249794,Roster,Yes,Special Political Mission,2018-10-01,2018-08-01,UNS:5119,POL,59
+2022,RfR,SAFETYNET,UN-PKO-1,Male,South Sudan,Africa,Safety,P-3,2022,516984,7287351,Roster,Yes,Peacekeeping Mission,2022-08-01,2022-02-01,UNS:10324,SAF,175
+2021,PSJO,POLNET,UN-OFFICE-5,Female,Canada,Western Europe and Others,Political Affairs,P-4,2021,459192,7359666,Non-roster,No,Office,2021-11-01,2021-06-01,UNS:5121,POL,161
+2019,PSJO,DEVNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Programme Management,P-3,2018,323304,7467537,Roster,Yes,OAH,2019-01-01,2018-12-01,UNS:8412,PGM,29
+2017,PSJO,DEVNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Programme Management,P-3,2017,239046,7467537,Non-roster,No,OAH,2017-11-01,2017-07-01,UNS:8412,PGM,139
+2020,PSJO,DEVNET,UN-DEPT-3,Female,Brazil,Latin American and Caribbean,Programme Management,P-4,2019,376440,7509747,Non-roster,No,Department,2020-05-01,2019-11-01,UNS:5283,PGM,178
+2022,PSJO,POLNET,UN-OFFICE-5,Female,Turkey,Western Europe and Others,Political Affairs,P-5,2021,503577,7740030,Non-roster,Yes,Office,2022-03-01,2021-12-01,UNS:6285,POL,94
+2018,PSJO,POLNET,UN-PKO-1,Male,Benin,Africa,Political Affairs,P-5,2018,292410,7748940,Non-roster,No,Peacekeeping Mission,2018-11-01,2018-05-01,UNS:6285,POL,195
+2021,PSJO,MAGNET,UN-OAH-2,Female,Czech Republic,Eastern European,Human Resources,P-3,2021,469566,7797096,Roster,Yes,OAH,2021-06-01,2021-05-01,UNS:3819,HRE,6
+2018,PSJO,INFONET,UN-OAH-2,Female,Ireland,Western Europe and Others,Language,P-4,2018,286044,7835970,Non-roster,No,OAH,2018-08-01,2018-03-01,UNS:8632,LAN,131
+2019,PSJO,MAGNET,UN-OAH-2,Male,Belgium,Western Europe and Others,Human Resources,P-3,2019,378822,7869240,Roster,Yes,OAH,2019-11-01,2019-11-01,UNS:3819,HRE,12
+2018,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2018,283284,7870137,Non-roster,No,OAH,2018-09-01,2018-03-01,UNS:8634,LAN,196
+2020,PSJO,POLNET,UN-PKO-1,Male,Egypt,Africa,Political Affairs,P-3,2019,371961,7871631,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-10-01,UNS:5119,POL,399
+2022,PSJO,DEVNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Programme Management,P-4,2021,492504,7893132,Non-roster,No,OAH,2022-01-01,2021-09-01,UNS:5283,PGM,117
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Sustainable Development,P-3,2019,368934,7896228,Non-roster,No,Department,2020-05-01,2019-09-01,UNS:6657,SUS,235
+2017,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2017,234318,7901304,Roster,Yes,OAH,2017-06-01,2017-05-01,UNS:8634,LAN,43
+2017,PSJO,LOGNET,UN-OAH-2,Male,Canada,Western Europe and Others,Engineering,P-4,2017,213966,7902693,Non-roster,No,OAH,2017-09-01,2017-01-01,UNS:3156,ENG,244
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Sustainable Development,P-3,2017,240885,8041731,Non-roster,No,Department,2018-10-01,2017-06-01,UNS:6657,SUS,499
+2020,PSJO,POLNET,UN-OFFICE-5,Female,Switzerland,Western Europe and Others,Political Affairs,P-3,2020,433557,8050803,Roster,Yes,Office,2020-12-01,2020-11-01,UNS:5119,POL,20
+2017,PSJO,DEVNET,UN-DEPT-3,Male,France,Western Europe and Others,Programme Management,P-4,2016,147819,8067789,Non-roster,No,Department,2017-05-01,2016-08-01,UNS:5283,PGM,251
+2021,RfR,POLNET,UN-PKO-1,Female,Senegal,Africa,Security Institutions,P-3,2021,482649,8073528,Roster,Yes,Peacekeeping Mission,2021-10-01,2021-08-01,UNS:6096,SEI,60
+2017,PSJO,DEVNET,UN-DEPT-3,Male,United Kingdom,Western Europe and Others,Statistics,P-4,2016,175122,8083344,Non-roster,No,Department,2017-01-01,2016-04-01,UNS:6540,STT,287
+2017,PSJO,SAFETYNET,UN-OFFICE-5,Male,Ireland,Western Europe and Others,Security,P-4,2017,219078,8086698,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:5988,SEC,24
+2021,PSJO,LOGNET,UN-OAH-2,Female,Colombia,Latin American and Caribbean,Engineering,P-3,2021,467346,8145981,Non-roster,No,OAH,2021-12-01,2021-05-01,UNS:3153,ENG,214
+2022,PSJO,SAFETYNET,UN-OAH-2,Female,Canada,Western Europe and Others,Security,P-3,2022,513048,8149881,Roster,Yes,OAH,2022-05-01,2022-01-01,UNS:5987,SEC,125
+2022,RfR,POLNET,UN-PKO-1,Male,Belgium,Western Europe and Others,Political Affairs,P-4,2021,497283,8211507,Roster,Yes,Peacekeeping Mission,2022-01-01,2021-10-01,UNS:6453,POL,88
+2019,PSJO,INFONET,UN-OAH-2,Male,United Kingdom,Western Europe and Others,Language,P-4,2018,313053,8231820,Non-roster,No,OAH,2019-03-01,2018-10-01,UNS:8632,LAN,161
+2018,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2018,274716,8263911,Non-roster,No,OAH,2018-07-01,2018-01-01,UNS:8633,LAN,190
+2018,RfR,POLNET,UN-PKO-1,Female,Canada,Western Europe and Others,Human Rights Affairs,P-3,2018,311526,8269410,Roster,Yes,Peacekeeping Mission,2018-11-01,2018-09-01,UNS:2322,HRI,68
+2021,PSJO,INFONET,UN-OAH-2,Male,France,Western Europe and Others,Language,P-4,2021,457617,8295735,Roster,Yes,OAH,2021-07-01,2021-04-01,UNS:8633,LAN,86
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Norway,Western Europe and Others,Statistics,P-5,2017,258426,8300382,Non-roster,No,Department,2018-05-01,2017-10-01,UNS:7585,STT,198
+2022,RfR,LOGNET,UN-PKO-1,Male,Canada,Western Europe and Others,Transportation,P-4,2022,532899,8313735,Roster,Yes,Peacekeeping Mission,2022-07-01,2022-04-01,UNS:10160,TRA,95
+2018,PSJO,DEVNET,UN-DEPT-3,Male,United States of America,Western Europe and Others,Statistics,P-3,2017,217482,8350062,Non-roster,Yes,Department,2018-03-01,2017-01-01,UNS:6539,STT,417
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Chile,Latin American and Caribbean,Statistics,P-5,2020,394938,8351232,Non-roster,No,Department,2020-10-01,2020-02-01,UNS:7585,STT,223
+2022,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2022,521889,8383491,Non-roster,No,OAH,2022-07-01,2022-02-01,UNS:8634,LAN,155
+2017,PSJO,MAGNET,UN-OFFICE-5,Male,Serbia,Eastern European,Investigation,P-4,2017,219072,8392761,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:4269,ING,23
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Czech Republic,Eastern European,Statistics,P-3,2015,138201,8395209,Non-roster,No,Department,2017-08-01,2015-08-01,UNS:6539,STT,712
+2022,PSJO,MAGNET,UN-OAH-2,Female,Poland,Eastern European,Finance,P-4,2021,487305,8398029,Non-roster,No,OAH,2022-04-01,2021-10-01,UNS:3350,FIN,210
+2017,PSJO,MAGNET,UN-OAH-2,Female,Poland,Eastern European,Finance,P-3,2017,224358,8398029,Roster,Yes,OAH,2017-03-01,2017-02-01,UNS:1012,FIN,21
+2022,RfR,POLNET,UN-PKO-1,Male,"Congo, The Democratic Republic",Africa,Rule of Law,P-4,2022,505323,8403954,Roster,Yes,Peacekeeping Mission,2022-03-01,2022-02-01,UNS:4298,ROL,49
+2017,PSJO,POLNET,UN-PKO-1,Male,"Congo, The Democratic Republic",Africa,Rule of Law,P-3,2016,162897,8403954,Non-roster,No,Peacekeeping Mission,2017-01-01,2016-01-01,UNS:4297,ROL,374
+2017,PSJO,INFONET,UN-OAH-2,Female,Spain,Western Europe and Others,Language,P-4,2016,212049,8433417,Non-roster,No,OAH,2017-04-01,2016-11-01,UNS:8236,LAN,148
+2019,PSJO,POLNET,UN-OFFICE-5,Female,Germany,Western Europe and Others,Political Affairs,P-3,2019,345537,8465682,Roster,Yes,Office,2019-04-01,2019-04-01,UNS:5119,POL,6
+2018,RfR,DEVNET,UN-PKO-1,Female,Cote D'Ivoire,Africa,Environmental Affairs,P-4,2018,303696,8517819,Roster,Yes,Peacekeeping Mission,2018-09-01,2018-07-01,UNS:3191,ENV,55
+2018,RfR,POLNET,UN-PKO-1,Female,Canada,Western Europe and Others,Rule of Law,P-4,2018,303435,8520720,Roster,Yes,Peacekeeping Mission,2018-10-01,2018-08-01,UNS:4298,ROL,59
+2022,PSJO,DEVNET,UN-DEPT-3,Male,Germany,Western Europe and Others,Economic Affairs,P-3,2021,475155,8553390,Roster,Yes,Department,2022-06-01,2021-07-01,UNS:7283,ECO,331
+2020,RfR,POLNET,UN-PKO-1,Male,France,Western Europe and Others,Security Institutions,P-4,2020,413940,8609676,Roster,Yes,Peacekeeping Mission,2020-09-01,2020-07-01,UNS:6097,SEI,65
+2021,PSJO,MAGNET,UN-OAH-2,Female,United States of America,Western Europe and Others,Human Resources,P-3,2021,493020,8611122,Non-roster,No,OAH,2021-12-01,2021-09-01,UNS:3819,HRE,72
+2022,PSJO,LOGNET,UN-PKO-1,Female,Tunisia,Africa,Logistics and Supply Chain,P-3,2021,507768,8640744,Non-roster,No,Peacekeeping Mission,2022-08-01,2021-11-01,UNS:4536,LOG,258
+2022,PSJO,INFONET,UN-OAH-2,Female,Russian Federation,Eastern European,Language,P-4,2022,541041,8693223,Non-roster,No,OAH,2022-08-01,2022-05-01,UNS:7548,LAN,103
+2021,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-5,2021,456423,8796792,Roster,Yes,OAH,2021-06-01,2021-04-01,UNS:8694,LAN,77
+2022,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2022,533370,8823222,Roster,Yes,OAH,2022-04-01,2022-03-01,UNS:8232,LAN,23
+2019,PSJO,POLNET,UN-PKO-1,Male,Benin,Africa,Rule of Law,P-4,2018,304521,8863893,Non-roster,No,Peacekeeping Mission,2019-02-01,2018-08-01,UNS:4298,ROL,209
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Italy,Western Europe and Others,Economic Affairs,P-3,2017,237669,8907075,Non-roster,No,Department,2017-09-01,2017-06-01,UNS:7283,ECO,102
+2022,RfR,POLNET,UN-PKO-1,Male,Burkina Faso,Africa,Human Rights Affairs,P-3,2021,508401,8915769,Roster,Yes,Peacekeeping Mission,2022-06-01,2021-12-01,UNS:3873,HRI,191
+2017,PSJO,DEVNET,UN-DEPT-3,Female,Spain,Western Europe and Others,Public Administration,P-5,2016,170589,8930241,Non-roster,No,Department,2017-03-01,2016-06-01,UNS:6183,PBA,276
+2022,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Population Affairs,P-3,2018,272724,8946567,Non-roster,No,Department,2022-04-01,2018-01-01,UNS:5126,POP,"1,547"
+2020,PSJO,LOGNET,UN-OAH-2,Male,France,Western Europe and Others,Engineering,P-3,2019,359598,9026787,Roster,Yes,OAH,2020-01-01,2019-08-01,UNS:3109,ENG,155
+2017,PSJO,LOGNET,UN-OAH-2,Male,France,Western Europe and Others,Engineering,P-3,2017,238662,9026787,Non-roster,No,OAH,2017-11-01,2017-06-01,UNS:3153,ENG,158
+2018,PSJO,DEVNET,UN-DEPT-3,Female,Canada,Western Europe and Others,Statistics,P-4,2018,301572,9155406,Roster,Yes,Department,2018-09-01,2018-07-01,UNS:6540,STT,63
+2020,PSJO,DEVNET,UN-DEPT-3,Female,Germany,Western Europe and Others,Economic Affairs,P-4,2019,376593,9189747,Non-roster,No,Department,2020-04-01,2019-11-01,UNS:7284,ECO,161
+2021,PSJO,INFONET,UN-OAH-2,Male,Mauritania,Africa,Language,P-4,2021,477933,9237792,Roster,Yes,OAH,2021-09-01,2021-07-01,UNS:8226,LAN,64
+2017,PSJO,DEVNET,UN-OAH-2,Female,Greece,Western Europe and Others,Programme Management,P-3,2016,193791,9267675,Non-roster,No,OAH,2017-04-01,2016-08-01,UNS:8412,PGM,244
+2019,PSJO,MAGNET,UN-OAH-2,Female,France,Western Europe and Others,Finance,P-5,2018,322137,9376488,Non-roster,No,OAH,2019-03-01,2018-12-01,UNS:2083,FIN,107
+2022,PSJO,INFONET,UN-OAH-2,Female,China,Asia-Pacific,Language,P-4,2022,518580,9392130,Roster,Yes,OAH,2022-02-01,2022-01-01,UNS:8631,LAN,10
+2020,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Statistics,P-3,2019,376830,9548466,Roster,Yes,Department,2020-02-01,2019-10-01,UNS:6539,STT,105
+2021,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Population Affairs,P-3,2021,456507,9548466,Non-roster,No,Department,2021-12-01,2021-04-01,UNS:5126,POP,237
+2022,PSJO,LEGALNET,UN-OFFICE-5,Male,Australia,Western Europe and Others,Legal Affairs,P-3,2022,540153,9605787,Non-roster,No,Office,2022-08-01,2022-05-01,UNS:4426,LEG,106
+2021,PSJO,DEVNET,UN-DEPT-3,Female,Malaysia,Asia-Pacific,Economic Affairs,P-3,2020,385059,9694671,Non-roster,No,Department,2021-05-01,2020-01-01,UNS:7283,ECO,494
+2022,PSJO,MAGNET,UN-OAH-2,Male,Germany,Western Europe and Others,Finance,P-5,2022,542958,9730116,Roster,Yes,OAH,2022-07-01,2022-05-01,UNS:6130,FIN,58
+2021,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-4,2021,470625,9730287,Non-roster,No,OAH,2021-12-01,2021-06-01,UNS:8632,LAN,173
+2021,PSJO,POLNET,UN-OFFICE-5,Male,Germany,Western Europe and Others,Political Affairs,P-3,2021,477036,9745728,Roster,Yes,Office,2021-10-01,2021-07-01,UNS:5119,POL,103
+2021,PSJO,MAGNET,UN-PKO-1,Female,Niger,Africa,Human Resources,P-4,2019,376605,9777945,Non-roster,No,Peacekeeping Mission,2021-04-01,2019-10-01,UNS:8727,HRE,531
+2020,PSJO,POLNET,UN-OFFICE-5,Male,"Korea, Republic of",Asia-Pacific,Political Affairs,P-3,2020,398961,9803283,Roster,Yes,Office,2020-04-01,2020-03-01,UNS:5119,POL,26
+2022,PSJO,POLNET,UN-OFFICE-5,Male,"Korea, Republic of",Asia-Pacific,Political Affairs,P-3,2022,535317,9803283,Roster,Yes,Office,2022-06-01,2022-04-01,UNS:5119,POL,43
+2017,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Programme Management,P-4,2017,238347,9943623,Non-roster,No,Department,2017-12-01,2017-05-01,UNS:5283,PGM,210
+2022,RfR,POLNET,UN-PKO-1,Male,Haiti,Latin American and Caribbean,Human Rights Affairs,P-3,2022,522765,10101672,Roster,Yes,Peacekeeping Mission,2022-05-01,2022-03-01,UNS:5461,HRI,63
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Malaysia,Asia-Pacific,Statistics,P-5,2017,219009,10259253,Non-roster,No,Department,2017-08-01,2017-02-01,UNS:6341,STT,189
+2022,PSJO,LOGNET,UN-PKO-1,Female,Cote D'Ivoire,Africa,Property and Asset Management,P-3,2022,530436,10358727,Non-roster,No,Peacekeeping Mission,2022-08-01,2022-03-01,UNS:10390,PAM,149
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Canada,Western Europe and Others,Economic Affairs,P-4,2020,388698,10434774,Non-roster,No,Department,2021-05-01,2020-01-01,UNS:7284,ECO,495
+2022,PSJO,DEVNET,UN-DEPT-3,Female,Indonesia,Asia-Pacific,Economic Affairs,P-3,2021,478992,10470033,Non-roster,No,Department,2022-04-01,2021-10-01,UNS:7283,ECO,181
+2021,PSJO,LOGNET,UN-OAH-2,Female,Lebanon,Asia-Pacific,Engineering,P-3,2021,467346,10630194,Non-roster,No,OAH,2021-12-01,2021-05-01,UNS:3153,ENG,214
+2017,PSJO,MAGNET,UN-OFFICE-5,Male,New Zealand,Western Europe and Others,Investigation,P-5,2017,219033,10689144,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:7592,ING,24
+2021,PSJO,INFONET,UN-OAH-2,Female,United Kingdom,Western Europe and Others,Language,P-4,2021,470625,10712949,Non-roster,No,OAH,2021-12-01,2021-06-01,UNS:8632,LAN,173
+2018,RfR,POLNET,UN-PKO-1,Female,Belgium,Western Europe and Others,Security Institutions,P-3,2018,297744,10815708,Roster,Yes,Peacekeeping Mission,2018-07-01,2018-06-01,UNS:2898,SEI,39
+2017,PSJO,DEVNET,UN-DEPT-3,Male,Canada,Western Europe and Others,Economic Affairs,P-5,2016,206682,10946619,Non-roster,No,Department,2017-03-01,2016-11-01,UNS:7577,ECO,105
+2017,PSJO,LOGNET,UN-OAH-2,Male,"Moldova, Republic of",Eastern European,Procurement,P-3,2017,220482,10999905,Non-roster,No,OAH,2017-07-01,2017-01-01,UNS:5223,PRO,168
+2018,RfR,POLNET,UN-PKO-1,Male,Australia,Western Europe and Others,Human Rights Affairs,P-3,2018,311526,11168421,Roster,Yes,Peacekeeping Mission,2018-11-01,2018-09-01,UNS:2322,HRI,68
+2017,PSJO,MAGNET,UN-OFFICE-5,Female,Sweden,Western Europe and Others,Investigation,P-4,2017,219084,11198547,Non-roster,No,Office,2017-02-01,2017-01-01,UNS:4269,ING,24
+2022,PSJO,INFONET,UN-OAH-2,Male,Belgium,Western Europe and Others,Language,P-4,2022,515598,11357829,Non-roster,No,OAH,2022-05-01,2022-01-01,UNS:8633,LAN,127
+2022,PSJO,LEGALNET,UN-OFFICE-5,Male,Belgium,Western Europe and Others,Legal Affairs,P-4,2022,539328,11378445,Non-roster,No,Office,2022-08-01,2022-05-01,UNS:4430,LEG,104
+2020,PSJO,MAGNET,UN-DEPT-3,Female,Bosnia and Herzegovina,Eastern European,Finance,P-3,2020,409560,11393001,Roster,Yes,Department,2020-06-01,2020-06-01,UNS:3349,FIN,8
+2019,PSJO,DEVNET,UN-OAH-2,Female,Kazakhstan,Asia-Pacific,Programme Management,P-3,2018,304908,11416569,Non-roster,No,OAH,2019-07-01,2018-08-01,UNS:2605,PGM,309
+2020,PSJO,POLNET,UN-OFFICE-5,Female,United States of America,Western Europe and Others,Political Affairs,P-3,2020,415896,11489403,Non-roster,No,Office,2020-11-01,2020-08-01,UNS:5119,POL,87
+2019,PSJO,POLNET,UN-OFFICE-5,Female,United States of America,Western Europe and Others,Political Affairs,P-3,2018,303039,11567829,Non-roster,No,Office,2019-01-01,2018-08-01,UNS:5119,POL,180
+2017,PSJO,INFONET,UN-OAH-2,Male,Switzerland,Western Europe and Others,Public Information,P-4,2017,207993,11580423,Non-roster,No,OAH,2017-07-01,2017-02-01,UNS:5563,PUB,143
+2021,PSJO,MAGNET,UN-PKO-1,Female,Canada,Western Europe and Others,Audit,P-3,2020,435315,11644338,Non-roster,No,Peacekeeping Mission,2021-11-01,2020-11-01,UNS:7832,AUD,350
+2017,PSJO,DEVNET,UN-DEPT-3,Male,United Kingdom,Western Europe and Others,Statistics,P-3,2017,229929,11653323,Non-roster,No,Department,2017-08-01,2017-03-01,UNS:6539,STT,136
+2020,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Environmental Affairs,P-3,2020,387675,11881230,Non-roster,No,Department,2020-07-01,2020-01-01,UNS:10025,ENV,177
+2022,RfR,POLNET,UN-SPM-4,Male,Germany,Western Europe and Others,Political Affairs,P-3,2022,531501,11916120,Roster,Yes,Special Political Mission,2022-06-01,2022-03-01,UNS:5119,POL,91
+2018,PSJO,LOGNET,UN-OAH-2,Male,France,Western Europe and Others,Engineering,P-3,2018,278868,11947101,Non-roster,No,OAH,2018-10-01,2018-03-01,UNS:3153,ENG,224
+2019,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Sustainable Development,P-3,2018,304608,12059430,Non-roster,No,Department,2019-08-01,2018-08-01,UNS:6657,SUS,367
+2020,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Statistics,P-3,2018,309213,12156537,Non-roster,No,Department,2020-02-01,2018-09-01,UNS:6539,STT,534
+2021,PSJO,ITECNET,UN-OAH-2,Male,Montenegro,Eastern European,Information Management Systems and Technology,P-3,2020,414567,12548301,Non-roster,No,OAH,2021-03-01,2020-07-01,UNS:3981,IST,232
+2022,RfR,POLNET,UN-PKO-1,Male,Togo,Africa,Political Affairs,P-3,2021,504663,12562248,Roster,Yes,Peacekeeping Mission,2022-02-01,2021-11-01,UNS:3539,POL,81
+2022,PSJO,POLNET,UN-OFFICE-5,Female,Switzerland,Western Europe and Others,Political Affairs,P-3,2022,541011,12569586,Roster,Yes,Office,2022-08-01,2022-06-01,UNS:5119,POL,67
+2022,PSJO,LEGALNET,UN-PKO-1,Female,Uganda,Africa,Legal Affairs,P-3,2021,452388,12628857,Non-roster,No,Peacekeeping Mission,2022-02-01,2021-03-01,UNS:4426,LEG,345
+2019,PSJO,MAGNET,UN-PKO-1,Male,Cameroon,Africa,Human Resources,P-3,2018,257436,12657000,Non-roster,No,Peacekeeping Mission,2019-01-01,2018-02-01,UNS:3819,HRE,353
+2018,PSJO,SAFETYNET,UN-OAH-2,Male,Brazil,Latin American and Caribbean,Security,P-4,2018,274089,12705258,Non-roster,No,OAH,2018-09-01,2018-03-01,UNS:5988,SEC,184
+2022,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Economic Affairs,P-3,2022,528024,12828681,Roster,Yes,Department,2022-05-01,2022-03-01,UNS:7283,ECO,68
+2021,RfR,POLNET,UN-PKO-1,Female,Canada,Western Europe and Others,Political Affairs,P-3,2021,506889,12874932,Roster,Yes,Peacekeeping Mission,2021-12-01,2021-11-01,UNS:8863,POL,40
+2021,PSJO,DEVNET,UN-OAH-2,Female,Netherlands,Western Europe and Others,Programme Management,P-5,2021,503130,12962121,Non-roster,No,OAH,2021-12-01,2021-11-01,UNS:10021,PGM,37
+2021,PSJO,POLNET,UN-OFFICE-5,Male,Netherlands,Western Europe and Others,Political Affairs,P-3,2020,420393,12973341,Non-roster,No,Office,2021-01-01,2020-09-01,UNS:5119,POL,121
+2018,RfR,POLNET,UN-PKO-1,Male,Ireland,Western Europe and Others,Political Affairs,P-3,2018,313011,13115886,Roster,Yes,Peacekeeping Mission,2018-11-01,2018-09-01,UNS:5119,POL,58
+2018,PSJO,DEVNET,UN-DEPT-3,Female,China,Asia-Pacific,Economic Affairs,P-4,2018,274011,13116954,Non-roster,No,Department,2018-08-01,2018-02-01,UNS:7284,ECO,176
+2021,PSJO,LOGNET,UN-PKO-1,Male,"Tanzania, United Republic of",Africa,Logistics and Supply Chain,P-5,2020,425898,13121898,Non-roster,No,Peacekeeping Mission,2021-05-01,2020-09-01,UNS:10154,LOG,228
+2020,PSJO,DEVNET,UN-DEPT-3,Female,Kenya,Africa,Economic Affairs,P-4,2019,376593,13122315,Non-roster,No,Department,2020-04-01,2019-11-01,UNS:7284,ECO,161
+2020,PSJO,SAFETYNET,UN-PKO-1,Female,Kenya,Africa,Security,P-3,2019,336783,13180503,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-04-01,UNS:5987,SEC,568
+2021,PSJO,POLNET,UN-OFFICE-5,Male,Japan,Asia-Pacific,Political Affairs,P-3,2021,473169,13279143,Roster,Yes,Office,2021-07-01,2021-06-01,UNS:5119,POL,33
+2021,PSJO,POLNET,UN-OFFICE-5,Male,Netherlands,Western Europe and Others,Political Affairs,P-3,2021,444138,13413069,Roster,Yes,Office,2021-02-01,2021-02-01,UNS:5119,POL,19
+2019,PSJO,LOGNET,UN-OAH-2,Male,Canada,Western Europe and Others,Procurement,P-3,2018,284376,13494735,Non-roster,No,OAH,2019-01-01,2018-04-01,UNS:2556,PRO,265
+2021,PSJO,MAGNET,UN-OAH-2,Male,France,Western Europe and Others,Administration,P-3,2020,393828,13586682,Non-roster,No,OAH,2021-03-01,2020-04-01,UNS:1102,ADM,321
+2021,PSJO,DEVNET,UN-DEPT-3,Male,Nepal,Asia-Pacific,Programme Management,P-3,2020,402678,13669056,Non-roster,No,Department,2021-02-01,2020-03-01,UNS:8412,PGM,314
+2020,PSJO,MAGNET,UN-OAH-2,Female,Canada,Western Europe and Others,Finance,P-3,2019,382032,13777290,Non-roster,No,OAH,2020-07-01,2019-12-01,UNS:1012,FIN,196
+2020,PSJO,POLNET,UN-PKO-1,Male,Rwanda,Africa,Political Affairs,P-3,2019,371961,13788369,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-10-01,UNS:5119,POL,399
+2021,RfR,POLNET,UN-PKO-1,Male,Rwanda,Africa,Political Affairs,P-3,2020,435207,13788369,Roster,Yes,Peacekeeping Mission,2021-06-01,2020-11-01,UNS:3926,POL,208
+2019,PSJO,DEVNET,UN-DEPT-3,Male,China,Asia-Pacific,Economic Affairs,P-5,2018,313674,13913802,Non-roster,No,Department,2019-05-01,2018-11-01,UNS:7799,ECO,184
+2020,PSJO,POLNET,UN-PKO-1,Female,Canada,Western Europe and Others,Political Affairs,P-3,2019,371961,13916268,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-10-01,UNS:5119,POL,399
+2019,PSJO,DEVNET,UN-DEPT-3,Male,Spain,Western Europe and Others,Economic Affairs,P-5,2018,305763,13928907,Non-roster,No,Department,2019-01-01,2018-08-01,UNS:7577,ECO,156
+2020,PSJO,POLNET,UN-PKO-1,Female,Lithuania,Eastern European,Political Affairs,P-3,2019,371961,13948251,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-10-01,UNS:5119,POL,399
+2022,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2022,515598,14104245,Non-roster,No,OAH,2022-05-01,2022-01-01,UNS:8633,LAN,127
+2022,PSJO,DEVNET,UN-DEPT-3,Female,Pakistan,Asia-Pacific,Statistics,P-3,2021,504987,14115309,Non-roster,No,Department,2022-03-01,2021-12-01,UNS:6539,STT,103
+2022,PSJO,DEVNET,UN-DEPT-3,Female,India,Asia-Pacific,Economic Affairs,P-4,2018,315261,14137281,Non-roster,No,Department,2022-04-01,2018-10-01,UNS:7284,ECO,"1,281"
+2021,PSJO,LOGNET,UN-OAH-2,Female,Italy,Western Europe and Others,Engineering,P-3,2020,402876,14192367,Non-roster,No,OAH,2021-02-01,2020-06-01,UNS:1180,ENG,254
+2019,PSJO,LOGNET,UN-OAH-2,Male,Italy,Western Europe and Others,Engineering,P-3,2018,315549,14198412,Non-roster,No,OAH,2019-06-01,2018-11-01,UNS:3109,ENG,197
+2022,PSJO,LOGNET,UN-OAH-2,Male,Romania,Eastern European,Engineering,P-3,2021,507645,14324922,Roster,Yes,OAH,2022-03-01,2021-12-01,UNS:3109,ENG,90
+2022,PSJO,MAGNET,UN-OAH-2,Female,Ireland,Western Europe and Others,Human Resources,P-3,2022,523113,14610405,Non-roster,No,OAH,2022-07-01,2022-02-01,UNS:8728,HRE,155
+2020,PSJO,POLNET,UN-PKO-1,Male,Cote D'Ivoire,Africa,Political Affairs,P-3,2019,371961,14779770,Non-roster,No,Peacekeeping Mission,2020-11-01,2019-10-01,UNS:5119,POL,399
+2020,PSJO,DEVNET,UN-SPM-4,Male,Senegal,Africa,Economic Affairs,P-5,2019,341487,14794218,Non-roster,No,Special Political Mission,2020-03-01,2019-04-01,UNS:7333,ECO,335
+2020,PSJO,DEVNET,UN-DEPT-3,Female,Colombia,Latin American and Caribbean,Economic Affairs,P-5,2020,409296,14892591,Non-roster,No,Department,2020-11-01,2020-07-01,UNS:7577,ECO,146
+2020,PSJO,DEVNET,UN-DEPT-3,Male,Japan,Asia-Pacific,Programme Management,P-5,2019,364230,15007908,Non-roster,No,Department,2020-07-01,2019-08-01,UNS:6291,PGM,329
+2021,PSJO,POLNET,UN-OFFICE-5,Female,Germany,Western Europe and Others,Political Affairs,P-5,2021,465345,15172374,Non-roster,No,Office,2021-09-01,2021-06-01,UNS:6285,POL,97
+2022,RfR,POLNET,UN-PKO-1,Female,France,Western Europe and Others,Political Affairs,P-3,2022,514821,15462681,Roster,Yes,Peacekeeping Mission,2022-05-01,2022-01-01,UNS:5119,POL,111
+2021,RfR,POLNET,UN-SPM-4,Male,Cameroon,Africa,Political Affairs,P-4,2021,499878,15536730,Roster,Yes,Special Political Mission,2021-12-01,2021-10-01,UNS:5121,POL,38
+2021,RfR,POLNET,UN-SPM-4,Female,China,Asia-Pacific,Political Affairs,P-3,2021,496062,15573183,Roster,Yes,Special Political Mission,2021-12-01,2021-10-01,UNS:5119,POL,61
+2022,PSJO,INFONET,UN-OAH-2,Female,France,Western Europe and Others,Language,P-4,2022,515598,15599709,Non-roster,No,OAH,2022-05-01,2022-01-01,UNS:8633,LAN,127
+2022,PSJO,POLNET,UN-PKO-1,Female,Madagascar,Africa,Rule of Law,P-3,2021,501366,16021491,Non-roster,No,Peacekeeping Mission,2022-07-01,2021-10-01,UNS:2626,ROL,258
+2022,PSJO,DEVNET,UN-OAH-2,Male,Greece,Western Europe and Others,Programme Management,P-3,2021,508377,16183986,Non-roster,No,OAH,2022-05-01,2021-12-01,UNS:8412,PGM,160
+2020,PSJO,DEVNET,UN-DEPT-3,Female,United States of America,Western Europe and Others,Economic Affairs,P-5,2020,380718,16341111,Non-roster,No,Department,2020-08-01,2020-04-01,UNS:7577,ECO,146
+2022,PSJO,ITECNET,UN-OAH-2,Male,Italy,Western Europe and Others,Information Management Systems and Technology,P-3,2022,526539,16372125,Non-roster,No,OAH,2022-05-01,2022-03-01,UNS:4083,IST,70
+2022,PSJO,DEVNET,UN-DEPT-3,Female,"Korea, Republic of",Asia-Pacific,Sustainable Development,P-5,2021,483927,16485003,Non-roster,No,Department,2022-04-01,2021-09-01,UNS:6345,SUS,209
+2021,PSJO,DEVNET,UN-DEPT-3,Female,Kenya,Africa,Economic Affairs,P-5,2020,419460,16968150,Non-roster,No,Department,2021-10-01,2020-09-01,UNS:7333,ECO,416
+2021,PSJO,LOGNET,UN-OAH-2,Female,Italy,Western Europe and Others,Engineering,P-3,2021,451899,17931222,Non-roster,No,OAH,2021-10-01,2021-03-01,UNS:1180,ENG,218
+2021,PSJO,LOGNET,UN-OAH-2,Female,Mexico,Latin American and Caribbean,Engineering,P-5,2021,483834,19111809,Non-roster,No,OAH,2021-11-01,2021-08-01,UNS:2071,ENG,97
