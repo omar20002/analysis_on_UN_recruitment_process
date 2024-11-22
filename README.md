@@ -8,13 +8,13 @@ This report analyses various visualizations to understand the characteristics of
 
 The box plot titled "Age to Level Employment Rate" shows the distribution of ages across three employment levels: P-3, P-4, and P-5. The median ages for these levels are 40.6, 45.7, and 52.1 years, respectively. This indicates that higher employment levels tend to have older employees, reflecting the experience and seniority required for these positions.
 
-![Age to Level Employment Rate](age_to_level_employment_rate.png)
+![Age to Level Employment Rate](age_to_level_employment_rate.png.png)
 
 ## Age Relation to Number of People Hired
 
 The bar chart titled "Age relation to amount of people hired" illustrates the distribution of employees hired across different age groups. The peak hiring age is between 40-50 years, with the highest number of employees hired in the 40-45 and 45-50 age groups. This suggests that the UN tends to hire more experienced individuals within this age range.
 
-![Age relation to amount of people hired](age_relation_to_number_of_people_hired.png)
+![Age relation to amount of people hired](age_relation_to_number_of_people_hired.png.png)
 
 ## Entity Type in Relation to Age Between Genders
 
